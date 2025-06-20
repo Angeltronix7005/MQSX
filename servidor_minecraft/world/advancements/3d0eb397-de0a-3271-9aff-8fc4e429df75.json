@@ -8263,5 +8263,47 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_wall": {
+    "criteria": {
+      "has_bone_block": "2025-06-20 23:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-20 23:00:13 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_stairs_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-06-20 23:00:13 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_wall_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-06-20 23:00:13 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_stairs": {
+    "criteria": {
+      "has_bone_block": "2025-06-20 23:00:13 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_slab_from_bone_block_stonecutting": {
+    "criteria": {
+      "has_bone_block": "2025-06-20 23:00:13 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bone_block_slab": {
+    "criteria": {
+      "has_bone_block": "2025-06-20 23:00:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

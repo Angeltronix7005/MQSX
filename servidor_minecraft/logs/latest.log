@@ -417,3 +417,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Jun2025 22:48:12.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein no longer a server operator]
 [20Jun2025 22:59:20.437] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
 [20Jun2025 23:00:47.882] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 236.0 μs. 292/292 recipes are parallelized.
+[20Jun2025 23:05:38.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 10.043539246551632,0.49520087700592796,-0.22177945086193063
+[20Jun2025 23:06:09.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -0.6798462285607627,1.0,10.142313038446673
+[20Jun2025 23:07:25.810] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
+[20Jun2025 23:07:25.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 0.06618880843362263,1.135458891813002,-10.248302832434405
+[20Jun2025 23:08:02.886] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
+[20Jun2025 23:08:44.889] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
+[20Jun2025 23:09:46.188] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
