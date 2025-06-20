@@ -10458,12 +10458,6 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_deepslate_tiles_wall_from_smeltingnull": {
-    "criteria": {
-      "has_deepslate_tile_wall": "2025-06-19 05:17:12 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/chiseled_stone_bricks_stairs_from_chiseled_stone_bricks_stonecutting": {
     "criteria": {
       "has_chiseled_stone_bricks": "2025-06-19 05:14:39 +0000"
@@ -10479,6 +10473,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/chiseled_stone_bricks_wall_from_chiseled_stone_bricks_stonecutting": {
     "criteria": {
       "has_chiseled_stone_bricks": "2025-06-19 05:14:39 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_deepslate_tiles_wall_from_smeltingnull": {
+    "criteria": {
+      "has_deepslate_tile_wall": "2025-06-19 05:17:12 +0000"
     },
     "done": true
   },
