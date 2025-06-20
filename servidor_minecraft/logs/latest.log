@@ -457,3 +457,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Jun2025 23:24:44.885] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
 [20Jun2025 23:31:03.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -17.213897219935745,0.3008513599947662,-5.9784972391370275
 [20Jun2025 23:36:43.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[20Jun2025 23:47:00.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.35.18.255:52161] logged in with entity id 13882 at (-417.9517851166694, 88.5, -161.2361093349333)
+[20Jun2025 23:47:00.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[20Jun2025 23:47:00.143] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
+[20Jun2025 23:47:00.178] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[20Jun2025 23:47:01.122] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[20Jun2025 23:49:09.860] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
+[20Jun2025 23:49:54.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 2.3957217327378544,0.49520087700592796,9.936600381955941
+[20Jun2025 23:50:06.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> wenas
+[20Jun2025 23:50:15.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> buenas
+[20Jun2025 23:50:16.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> holi
+[20Jun2025 23:50:47.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> Están en discord=?
+[20Jun2025 23:50:51.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> sip
+[20Jun2025 23:50:55.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ci
+[20Jun2025 23:51:02.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pueden venir?
