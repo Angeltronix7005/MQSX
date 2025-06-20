@@ -415,3 +415,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Jun2025 22:44:38.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Creative Mode]
 [20Jun2025 22:47:58.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Survival Mode]
 [20Jun2025 22:48:12.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein no longer a server operator]
+[20Jun2025 22:59:20.437] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
+[20Jun2025 23:00:47.882] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 236.0 μs. 292/292 recipes are parallelized.
