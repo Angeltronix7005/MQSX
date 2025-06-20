@@ -4674,3 +4674,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Jun2025 23:20:40.131] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
 [20Jun2025 23:20:49.902] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
 [20Jun2025 23:21:14.635] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
+[20Jun2025 23:22:27.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 23:22:27.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 23:24:08.988] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
+[20Jun2025 23:24:23.554] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
+[20Jun2025 23:24:43.634] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
+[20Jun2025 23:24:44.885] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114, l='ServerLevel[world]', x=-317.74, y=21.83, z=-217.60, removed=DISCARDED]
+[20Jun2025 23:27:27.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 23:27:27.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 23:31:03.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -17.213897219935745,0.3008513599947662,-5.9784972391370275
