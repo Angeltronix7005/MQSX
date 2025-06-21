@@ -5671,3 +5671,75 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jun2025 03:59:00.236] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [21Jun2025 03:59:28.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilolol2 has made the advancement [Diamonds!]
 [21Jun2025 03:59:42.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilolol2 has made the advancement [Cover Me with Diamonds]
+[21Jun2025 04:00:21.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_fire
+[21Jun2025 04:00:21.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_4
+[21Jun2025 04:00:21.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_5
+[21Jun2025 04:00:21.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_brute
+[21Jun2025 04:00:21.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_7
+[21Jun2025 04:00:21.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_sword
+[21Jun2025 04:00:21.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/camp_mob_piglin_crossbow
+[21Jun2025 04:00:22.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_3
+[21Jun2025 04:00:46.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 04:00:46.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 04:01:32.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -0.0615863929363627,-0.22654238139682548,10.147784293823122
+[21Jun2025 04:01:48.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[21Jun2025 04:02:16.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 1.7314547483151728,-3.535840625044557,9.449192393785665
+[21Jun2025 04:02:34.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_2
+[21Jun2025 04:02:34.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_1_basalt
+[21Jun2025 04:02:34.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_plate_1_basalt
+[21Jun2025 04:02:34.662] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_empty
+[21Jun2025 04:02:34.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_skeleton
+[21Jun2025 04:02:34.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_7_basalt
+[21Jun2025 04:02:34.665] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_6_basalt
+[21Jun2025 04:02:34.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_9_basalt
+[21Jun2025 04:02:34.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_12_basalt
+[21Jun2025 04:02:34.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_11_basalt
+[21Jun2025 04:02:34.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_5_basalt
+[21Jun2025 04:02:34.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_4_basalt
+[21Jun2025 04:02:34.672] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_2_basalt
+[21Jun2025 04:02:34.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_witherskeleton
+[21Jun2025 04:02:34.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_fail
+[21Jun2025 04:02:34.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_fire
+[21Jun2025 04:02:34.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_6
+[21Jun2025 04:02:34.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_1
+[21Jun2025 04:02:34.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_7
+[21Jun2025 04:02:34.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_5
+[21Jun2025 04:02:43.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[21Jun2025 04:02:50.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[21Jun2025 04:04:23.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_fire
+[21Jun2025 04:04:23.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_2
+[21Jun2025 04:04:23.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_6
+[21Jun2025 04:04:23.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_5
+[21Jun2025 04:04:23.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_7
+[21Jun2025 04:05:46.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 04:05:46.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 04:06:51.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilolol2 has completed the challenge [Cover Me in Debris]
+[21Jun2025 04:07:26.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> voy a reiniciar un momento el server
+[21Jun2025 04:07:30.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[21Jun2025 04:07:30.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[21Jun2025 04:07:30.134] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[21Jun2025 04:07:30.135] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[21Jun2025 04:07:36.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[21Jun2025 04:07:36.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[21Jun2025 04:07:36.081] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[21Jun2025 04:07:36.082] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[21Jun2025 04:07:38.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Jun2025 04:07:38.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jun2025 04:07:38.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jun2025 04:07:38.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Server closed
+[21Jun2025 04:07:38.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[21Jun2025 04:07:38.633] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[21Jun2025 04:07:38.635] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[21Jun2025 04:07:38.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jun2025 04:07:39.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jun2025 04:07:39.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jun2025 04:07:39.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jun2025 04:07:39.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 04:07:39.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 04:07:39.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jun2025 04:07:39.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jun2025 04:07:39.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jun2025 04:07:39.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Jun2025 04:07:39.920] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[21Jun2025 04:07:39.920] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[21Jun2025 04:07:39.921] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

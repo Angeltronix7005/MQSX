@@ -10313,5 +10313,41 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/magma_block_slab_from_magma_block_stonecutting": {
+    "criteria": {
+      "has_magma_block": "2025-06-21 04:02:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/magma_block_stairs_from_magma_block_stonecutting": {
+    "criteria": {
+      "has_magma_block": "2025-06-21 04:02:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/magma_block_slab": {
+    "criteria": {
+      "has_magma_block": "2025-06-21 04:02:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/magma_block_wall_from_magma_block_stonecutting": {
+    "criteria": {
+      "has_magma_block": "2025-06-21 04:02:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/magma_block_stairs": {
+    "criteria": {
+      "has_magma_block": "2025-06-21 04:02:19 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/magma_block_wall": {
+    "criteria": {
+      "has_magma_block": "2025-06-21 04:02:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
