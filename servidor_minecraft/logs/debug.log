@@ -5604,3 +5604,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jun2025 04:49:03.979] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_fire
 [21Jun2025 04:49:03.988] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_empty
 [21Jun2025 04:49:04.022] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton
+[21Jun2025 04:49:24.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 04:49:24.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 04:49:54.189] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/16414, l='ServerLevel[world]', x=577.00, y=31.00, z=131.00] as it would cause deadlock
+[21Jun2025 04:50:26.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> 5 minutos más ama
+[21Jun2025 04:51:01.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> byes
+[21Jun2025 04:51:04.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[21Jun2025 04:51:04.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[21Jun2025 04:51:04.067] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[21Jun2025 04:51:04.067] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[21Jun2025 04:52:54.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> estas en el nether?
+[21Jun2025 04:52:57.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> yep
+[21Jun2025 04:53:18.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> necesito cuarzo pa la casa
+[21Jun2025 04:54:24.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 04:54:24.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 04:54:46.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a huevo
+[21Jun2025 04:54:51.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> se ve costosita la cas
+[21Jun2025 04:54:53.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> casa*
+[21Jun2025 04:55:14.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> siii... el cuarzo es lindo pero madre pa conseguirlo
+[21Jun2025 04:55:20.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> seeeeeeeee
+[21Jun2025 04:55:38.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> voy a cepillarme los dientes
+[21Jun2025 04:55:46.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> va, me dices para salir
+[21Jun2025 04:59:24.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 04:59:24.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 04:59:27.964] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20145, l='ServerLevel[world]', x=509.00, y=31.00, z=222.00] as it would cause deadlock
+[21Jun2025 04:59:28.046] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_fire
+[21Jun2025 04:59:28.047] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_fire
