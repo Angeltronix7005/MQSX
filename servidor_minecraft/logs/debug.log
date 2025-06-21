@@ -4913,3 +4913,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jun2025 00:07:27.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jun2025 00:08:11.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [21Jun2025 00:08:11.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[21Jun2025 00:12:27.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 00:12:27.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 00:17:27.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 00:17:27.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
