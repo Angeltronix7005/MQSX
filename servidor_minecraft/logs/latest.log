@@ -18,3 +18,15 @@
 [21Jun2025 00:05:56.507] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
 [21Jun2025 00:08:11.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [21Jun2025 00:08:11.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[21Jun2025 00:30:16.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Jun2025 00:30:16.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jun2025 00:30:16.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jun2025 00:30:16.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jun2025 00:30:16.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jun2025 00:30:16.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jun2025 00:30:16.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jun2025 00:30:16.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jun2025 00:30:16.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jun2025 00:30:16.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jun2025 00:30:16.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Jun2025 00:30:16.395] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
