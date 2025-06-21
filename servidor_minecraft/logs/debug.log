@@ -4871,3 +4871,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Jun2025 23:50:51.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> sip
 [20Jun2025 23:50:55.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ci
 [20Jun2025 23:51:02.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pueden venir?
+[20Jun2025 23:51:49.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> se ve mejor no?
+[20Jun2025 23:51:54.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> yo lo veo igual
+[20Jun2025 23:51:57.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> nop
+[20Jun2025 23:52:27.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 23:52:27.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 23:54:22.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 10.037417170915944,0.0,0.3740007283157638
+[20Jun2025 23:56:11.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> zzzzzzz
+[20Jun2025 23:56:40.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[20Jun2025 23:57:09.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> zzzzzzzzzzzzzzzzz
+[20Jun2025 23:57:24.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> zzzzzzzzzzzzzzzzz
+[20Jun2025 23:57:27.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 23:57:27.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 23:57:34.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -13.727323042792591,7.077149697744346,8.685802009430518
+[20Jun2025 23:57:36.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -10.428783087311388,4.64699906810776,13.64317703216193
+[20Jun2025 23:57:41.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -11.34150222012596,1.3265444611369048,14.18953368971944
+[20Jun2025 23:57:59.064] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 703.0 μs. 996/996 recipes are parallelized.
+[20Jun2025 23:59:01.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -17.731632239079943,0.24221691903353815,0.5786773330412132
+[20Jun2025 23:59:30.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -17.267166193994342,-1.5913963438409269,-0.005506578019634389
+[21Jun2025 00:00:07.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -16.49575796924927,8.137575929791396,-0.9465199375730151
+[21Jun2025 00:00:42.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -10.524847693441927,-0.78252337575627,-0.0027583745681454275
+[21Jun2025 00:01:03.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[21Jun2025 00:01:28.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 10.106629225584754,0.0,-0.049037526380232066
+[21Jun2025 00:01:45.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 10.0553221065299,0.0,0.8829327268872476
