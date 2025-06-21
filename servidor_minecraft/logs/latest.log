@@ -431,3 +431,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jun2025 04:17:30.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -1.2946089818608755,4.504402086092966,18.074102354512917
 [21Jun2025 04:18:40.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> sequenlo xd
 [21Jun2025 04:18:45.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> saquenlo*
+[21Jun2025 04:19:30.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> zzz?
+[21Jun2025 04:19:47.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> zzzzzzzzzzzzzzzzzz
+[21Jun2025 04:19:56.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -17.460448411189702,0.348736123076705,4.257725296801823
+[21Jun2025 04:21:22.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilolol2 was slain by Ferlein
+[21Jun2025 04:26:12.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilolol2 lost connection: Disconnected
+[21Jun2025 04:26:12.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilolol2 left the game
+[21Jun2025 04:26:12.912] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{camilolol2} || 99d74b2c-4d5f-36c7-87ed-616d4dd84e80
+[21Jun2025 04:26:12.913] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 99d74b2c-4d5f-36c7-87ed-616d4dd84e80 was unloaded
+[21Jun2025 04:26:23.177] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilolol2[/127.251.43.157:36125] logged in with entity id 8607 at (-177.17947589410508, 79.0, -179.34916849068952)
+[21Jun2025 04:26:23.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilolol2 joined the game
+[21Jun2025 04:26:23.280] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{camilolol2} || 99d74b2c-4d5f-36c7-87ed-616d4dd84e80
+[21Jun2025 04:26:23.363] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 99d74b2c-4d5f-36c7-87ed-616d4dd84e80 was loaded
+[21Jun2025 04:27:02.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 0.3087641501834355,0.0,-10.253061510584217
+[21Jun2025 04:27:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> xd
+[21Jun2025 04:27:33.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilolol2> XD ?
+[21Jun2025 04:27:34.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> yo quiero esa fe
+[21Jun2025 04:27:40.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilolol2> yo igual xd
+[21Jun2025 04:27:45.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> x3
+[21Jun2025 04:28:14.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -10.085207446667738,0.0,-0.09609838104501023
+[21Jun2025 04:28:22.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! 10.093800027161507,0.0,-0.13819759398109
+[21Jun2025 04:28:29.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -10.047704688221415,0.0,0.18242918460549618
+[21Jun2025 04:28:48.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -10.244602066624054,0.0,0.4552944460665742
+[21Jun2025 04:28:57.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> porque mi armadura no tiene toda la durabilidad?
