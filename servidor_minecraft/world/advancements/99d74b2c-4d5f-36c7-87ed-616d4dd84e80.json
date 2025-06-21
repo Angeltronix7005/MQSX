@@ -243,27 +243,9 @@
     },
     "done": true
   },
-  "l2complements:recipes/misc/craft/totem_of_undying": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "has_totem_of_undying": "2025-06-21 04:05:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-21 04:00:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
+      "diamond_knife": "2025-06-21 03:55:34 +0000"
     },
     "done": true
   },
@@ -273,21 +255,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/vanilla/upgrade/diamond_chestplate": {
     "criteria": {
       "has_diamond_block": "2025-06-21 03:59:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-21 04:00:25 +0000"
     },
     "done": true
   },
@@ -297,57 +267,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-06-21 04:05:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-06-21 03:59:42 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/generated/upgrade/diamond_scythe": {
     "criteria": {
       "has_diamond_block": "2025-06-21 03:59:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-06-21 04:03:50 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/tools/generated/craft/diamond_scythe_enchanted": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/tools/generated/craft/diamond_javelin_enchanted": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/diffusion/diffusion/deepslate_diamond_ore": {
     "criteria": {
       "has_diamond_block": "2025-06-21 03:59:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-06-21 04:03:50 +0000"
     },
     "done": true
   },
@@ -363,39 +291,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_stairs_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2025-06-21 04:03:59 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/generated/upgrade/diamond_nunchaku": {
     "criteria": {
       "has_diamond_block": "2025-06-21 03:59:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-06-21 04:06:51 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_wall": {
-    "criteria": {
-      "has_dirt": "2025-06-21 04:03:59 +0000"
     },
     "done": true
   },
@@ -417,24 +315,6 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/durable_armor_1": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/durable_armor_2": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/durable_armor_3": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_slab": {
     "criteria": {
       "has_diamond_block": "2025-06-21 03:59:25 +0000"
@@ -447,117 +327,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_wall_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2025-06-21 04:03:59 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-06-21 04:03:50 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/generated/upgrade/diamond_spear": {
     "criteria": {
       "has_diamond_block": "2025-06-21 03:59:25 +0000"
     },
     "done": true
   },
-  "l2weaponry:recipes/tools/generated/craft/diamond_machete_enchanted": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/tools/generated/craft/diamond_dagger_enchanted": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/tools/generated/craft/diamond_claw_enchanted": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/tools/generated/craft/diamond_hammer_enchanted": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "diamond_knife": "2025-06-21 03:55:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-06-21 04:05:44 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/generated/upgrade/diamond_dagger": {
     "criteria": {
       "has_diamond_block": "2025-06-21 03:59:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-06-21 04:03:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_slab": {
-    "criteria": {
-      "has_dirt": "2025-06-21 04:03:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/tools/generated/craft/diamond_battle_axe_enchanted": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
     },
     "done": true
   },
@@ -573,69 +351,9 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/tools/generated/craft/diamond_round_shield_enchanted": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/tools/generated/craft/diamond_throwing_axe_enchanted": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-21 04:00:25 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
-    "criteria": {
-      "has_dirt": "2025-06-21 04:03:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-06-21 04:03:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-06-21 04:03:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-06-21 04:03:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-21 04:00:25 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_stairs": {
     "criteria": {
       "has_diamond_block": "2025-06-21 03:59:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-06-21 04:03:50 +0000"
     },
     "done": true
   },
@@ -648,18 +366,6 @@
   "l2complements:recipes/misc/vanilla/upgrade/diamond_boots": {
     "criteria": {
       "has_diamond_block": "2025-06-21 03:59:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-21 04:00:25 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_stairs": {
-    "criteria": {
-      "has_dirt": "2025-06-21 04:03:59 +0000"
     },
     "done": true
   },
@@ -693,21 +399,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-06-21 04:00:25 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_wall_from_diamond_block_stonecutting": {
     "criteria": {
       "has_diamond_block": "2025-06-21 03:59:25 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/tools/generated/craft/diamond_nunchaku_enchanted": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
     },
     "done": true
   },
@@ -723,21 +417,9 @@
     },
     "done": true
   },
-  "l2complements:recipes/burnt/burnt/totem_of_undying": {
-    "criteria": {
-      "has_totem_of_undying": "2025-06-21 04:05:27 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/generated/upgrade/diamond_machete": {
     "criteria": {
       "has_diamond_block": "2025-06-21 03:59:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2025-06-21 03:59:28 +0000"
     },
     "done": true
   },
@@ -747,27 +429,165 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
+  "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
-      "has_any_ingredient": "2025-06-21 04:00:25 +0000"
+      "has_diamond": "2025-06-21 03:59:28 +0000"
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/ender_reach": {
+  "minecraft:recipes/decorations/jukebox": {
     "criteria": {
-      "has_ender_pearl": "2025-06-21 04:05:34 +0000"
+      "has_diamond": "2025-06-21 03:59:28 +0000"
     },
     "done": true
   },
-  "l2weaponry:recipes/misc/generated/recycle/sculkium_scythe": {
+  "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
-      "has_sculkium_scythe": "2025-06-21 04:05:05 +0000"
+      "has_diamond": "2025-06-21 03:59:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "l2weaponry:recipes/tools/generated/craft/diamond_scythe_enchanted": {
     "criteria": {
-      "in_water": "2025-06-21 04:03:50 +0000"
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_javelin_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/durable_armor_1": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/durable_armor_2": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/durable_armor_3": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_machete_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_dagger_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_claw_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_hammer_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_battle_axe_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_round_shield_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_throwing_axe_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/tools/generated/craft/diamond_nunchaku_enchanted": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-21 03:59:28 +0000"
     },
     "done": true
   },
@@ -782,6 +602,198 @@
       "has_diamond": "2025-06-21 03:59:28 +0000"
     },
     "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-21 03:59:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-21 04:00:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-21 04:00:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-21 04:00:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-21 04:00:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-21 04:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-21 04:00:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-21 04:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-06-21 04:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-06-21 04:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-21 04:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-21 04:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-21 04:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-21 04:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-21 04:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-06-21 04:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-21 04:03:50 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_stairs_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-21 04:03:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_wall": {
+    "criteria": {
+      "has_dirt": "2025-06-21 04:03:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_wall_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-21 04:03:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-06-21 04:03:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_slab_from_dirt_stonecutting": {
+    "criteria": {
+      "has_dirt": "2025-06-21 04:03:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dirt_stairs": {
+    "criteria": {
+      "has_dirt": "2025-06-21 04:03:59 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/sculkium_scythe": {
+    "criteria": {
+      "has_sculkium_scythe": "2025-06-21 04:05:05 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2025-06-21 04:05:27 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2025-06-21 04:05:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-21 04:05:34 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/ender_reach": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-21 04:05:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-06-21 04:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-21 04:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-06-21 04:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2025-06-21 04:12:54 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
