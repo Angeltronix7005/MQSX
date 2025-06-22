@@ -412,3 +412,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Jun2025 03:59:19.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-164, y=69, z=-163} BlockPos{x=-164, y=70, z=-163}
 [22Jun2025 04:29:02.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
 [22Jun2025 04:29:15.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[22Jun2025 04:37:26.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-340, y=72, z=-346} BlockPos{x=-342, y=72, z=-347}
