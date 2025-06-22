@@ -10488,5 +10488,41 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/red_wool_slab_from_red_wool_stonecutting": {
+    "criteria": {
+      "has_red_wool": "2025-06-22 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/red_wool_wall_from_red_wool_stonecutting": {
+    "criteria": {
+      "has_red_wool": "2025-06-22 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/red_wool_stairs_from_red_wool_stonecutting": {
+    "criteria": {
+      "has_red_wool": "2025-06-22 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/red_wool_slab": {
+    "criteria": {
+      "has_red_wool": "2025-06-22 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/red_wool_wall": {
+    "criteria": {
+      "has_red_wool": "2025-06-22 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/red_wool_stairs": {
+    "criteria": {
+      "has_red_wool": "2025-06-22 03:25:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
