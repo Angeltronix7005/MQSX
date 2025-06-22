@@ -409,3 +409,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Jun2025 03:52:30.165] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 788.3 μs. 996/996 recipes are parallelized.
 [22Jun2025 03:54:52.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
 [22Jun2025 03:55:17.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[22Jun2025 03:59:19.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-164, y=69, z=-163} BlockPos{x=-164, y=70, z=-163}

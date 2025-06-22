@@ -10524,5 +10524,41 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_leaves_stairs": {
+    "criteria": {
+      "has_spruce_leaves": "2025-06-22 03:58:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_leaves_stairs_from_spruce_leaves_stonecutting": {
+    "criteria": {
+      "has_spruce_leaves": "2025-06-22 03:58:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_leaves_wall": {
+    "criteria": {
+      "has_spruce_leaves": "2025-06-22 03:58:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_leaves_slab": {
+    "criteria": {
+      "has_spruce_leaves": "2025-06-22 03:58:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_leaves_wall_from_spruce_leaves_stonecutting": {
+    "criteria": {
+      "has_spruce_leaves": "2025-06-22 03:58:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/spruce_leaves_slab_from_spruce_leaves_stonecutting": {
+    "criteria": {
+      "has_spruce_leaves": "2025-06-22 03:58:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
