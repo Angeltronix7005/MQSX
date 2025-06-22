@@ -410,3 +410,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Jun2025 02:34:47.225] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 681.6 μs. 996/996 recipes are parallelized.
 [22Jun2025 02:39:05.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Creative Mode]
 [22Jun2025 02:39:52.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Survival Mode]
+[22Jun2025 02:40:58.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[22Jun2025 02:40:58.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[22Jun2025 02:40:58.497] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[22Jun2025 02:40:58.498] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[22Jun2025 02:41:02.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.13.104.245:54895] logged in with entity id 7582 at (-264.01143521922256, 71.0, -149.8729435203742)
+[22Jun2025 02:41:02.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
+[22Jun2025 02:41:02.908] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[22Jun2025 02:41:03.063] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
