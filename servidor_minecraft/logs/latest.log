@@ -406,3 +406,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Jun2025 02:14:27.097] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.250 ms. 2566/2626 recipes are parallelized.
 [22Jun2025 02:24:15.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein a server operator]
 [22Jun2025 02:24:25.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Creative Mode]
+[22Jun2025 02:33:42.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Survival Mode]
+[22Jun2025 02:34:47.225] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 681.6 μs. 996/996 recipes are parallelized.
+[22Jun2025 02:39:05.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Creative Mode]
+[22Jun2025 02:39:52.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Survival Mode]
