@@ -10745,9 +10745,33 @@
     },
     "done": true
   },
+  "l2archery:archery/earth_bow": {
+    "criteria": {
+      "0": "2025-06-24 05:11:08 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/gaia_bow": {
+    "criteria": {
+      "has_earth_bow": "2025-06-24 05:11:08 +0000"
+    },
+    "done": true
+  },
   "l2archery:archery/turtle_bow": {
     "criteria": {
       "0": "2025-06-24 05:02:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/projectile_reject": {
+    "criteria": {
+      "has_force_field": "2025-06-24 05:11:53 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/life_sync": {
+    "criteria": {
+      "has_force_field": "2025-06-24 05:11:53 +0000"
     },
     "done": true
   },

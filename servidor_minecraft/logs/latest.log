@@ -415,3 +415,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jun2025 05:02:13.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Stand Still, Shoot Stronger]
 [24Jun2025 05:04:14.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> dime?
 [24Jun2025 05:05:28.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> espera porque me quitó mucha vida :v
+[24Jun2025 05:09:44.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[24Jun2025 05:11:08.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has reached the goal [Power of the Earth]
+[24Jun2025 05:12:45.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has completed the challenge [Indestructable Archer]

@@ -8360,5 +8360,41 @@
     },
     "done": true
   },
+  "l2archery:recipes/combat/destroyer_arrow": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-24 05:05:03 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/tearing_arrow": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-24 05:05:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/eternium_nugget": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-24 05:05:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/renew/ancient_debris": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-24 05:05:03 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/copper_arrow": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-24 05:06:33 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/explosion_reject": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-24 05:05:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
