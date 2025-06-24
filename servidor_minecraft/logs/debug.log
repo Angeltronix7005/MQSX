@@ -5576,3 +5576,64 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jun2025 19:53:08.157] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
 [24Jun2025 19:53:21.590] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
 [24Jun2025 19:53:28.138] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7
+[24Jun2025 19:54:42.430] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_heart
+[24Jun2025 19:54:42.434] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_srb
+[24Jun2025 19:54:42.435] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_a
+[24Jun2025 19:54:42.437] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sb
+[24Jun2025 19:54:42.437] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_c
+[24Jun2025 19:54:42.438] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sra
+[24Jun2025 19:54:42.441] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_srb
+[24Jun2025 19:54:42.445] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_1
+[24Jun2025 19:54:42.447] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_2
+[24Jun2025 19:54:42.449] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_3
+[24Jun2025 19:54:42.452] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_1
+[24Jun2025 19:54:42.466] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_1
+[24Jun2025 19:54:42.481] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_3
+[24Jun2025 19:54:42.486] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_2
+[24Jun2025 19:54:42.491] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_2
+[24Jun2025 19:54:42.492] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_2
+[24Jun2025 19:54:42.495] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_1
+[24Jun2025 19:54:42.496] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_4
+[24Jun2025 19:54:42.498] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_3
+[24Jun2025 19:54:42.499] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_6
+[24Jun2025 19:54:42.501] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_5
+[24Jun2025 19:54:42.505] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_4
+[24Jun2025 19:54:42.507] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_5
+[24Jun2025 19:54:42.511] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_3
+[24Jun2025 19:54:42.513] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_4
+[24Jun2025 19:54:42.514] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_hallway_lock
+[24Jun2025 19:54:42.520] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sb
+[24Jun2025 19:54:42.521] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sa
+[24Jun2025 19:54:42.523] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_lc
+[24Jun2025 19:54:42.524] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sc
+[24Jun2025 19:54:42.525] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_b
+[24Jun2025 19:54:42.527] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_lb
+[24Jun2025 19:54:42.529] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sra
+[24Jun2025 19:54:42.530] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_src
+[24Jun2025 19:54:42.531] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_srb
+[24Jun2025 19:54:42.532] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sa
+[24Jun2025 19:54:42.533] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sra
+[24Jun2025 19:54:42.534] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_b
+[24Jun2025 19:54:42.535] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sc
+[24Jun2025 19:54:42.536] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_c
+[24Jun2025 19:54:42.537] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_b
+[24Jun2025 19:54:42.538] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_c
+[24Jun2025 19:54:42.540] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sa
+[24Jun2025 19:54:42.541] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_a
+[24Jun2025 19:54:42.541] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_src
+[24Jun2025 19:54:42.542] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_a
+[24Jun2025 19:54:49.762] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[24Jun2025 19:54:54.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 19:54:54.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 19:56:10.026] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[24Jun2025 19:57:08.999] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[24Jun2025 19:59:54.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jun2025 19:59:54.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jun2025 20:00:38.867] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1011, y=79, z=-1375}) doesn't have enough leaves around top most log
+[24Jun2025 20:00:39.474] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1011, y=78, z=-1375}) doesn't have enough leaves around top most log
+[24Jun2025 20:00:54.661] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1011, y=79, z=-1375}) doesn't have enough leaves around top most log
+[24Jun2025 20:00:55.216] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1011, y=80, z=-1375}) doesn't have enough leaves around top most log
+[24Jun2025 20:00:55.921] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1011, y=78, z=-1375}) doesn't have enough leaves around top most log
+[24Jun2025 20:02:09.392] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[24Jun2025 20:02:58.719] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_stairs
+[24Jun2025 20:02:58.723] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_lock

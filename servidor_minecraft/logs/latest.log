@@ -411,3 +411,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jun2025 19:48:46.202] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [24Jun2025 19:49:31.210] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 7.613 ms. 2805/2889 recipes are parallelized.
 [24Jun2025 19:50:02.383] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[24Jun2025 19:56:10.026] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[24Jun2025 19:57:08.999] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[24Jun2025 20:02:09.392] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
