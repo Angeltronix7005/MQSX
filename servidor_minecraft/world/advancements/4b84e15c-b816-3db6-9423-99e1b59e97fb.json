@@ -10571,5 +10571,23 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/legendary/spear_of_winter_storm": {
+    "criteria": {
+      "has_hard_ice": "2025-06-24 21:40:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/winterstorm_wand": {
+    "criteria": {
+      "has_hard_ice": "2025-06-24 21:40:10 +0000"
+    },
+    "done": true
+  },
+  "l2archery:archery/winter_bow": {
+    "criteria": {
+      "0": "2025-06-24 21:42:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
