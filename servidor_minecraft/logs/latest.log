@@ -566,3 +566,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jun2025 23:13:01.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [24Jun2025 23:13:01.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [24Jun2025 23:18:23.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein no longer a server operator]
+[24Jun2025 23:32:47.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jun2025 23:32:47.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
