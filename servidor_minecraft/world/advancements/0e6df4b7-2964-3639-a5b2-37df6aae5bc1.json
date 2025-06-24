@@ -10478,12 +10478,6 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/light_blue_stained_glass_stairs_from_light_blue_stained_glass_stonecutting": {
-    "criteria": {
-      "has_light_blue_stained_glass": "2025-06-24 19:09:50 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_moonfall": {
     "criteria": {
       "has_journal": "2025-06-24 18:56:01 +0000"
@@ -11000,12 +10994,6 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/light_blue_stained_glass_slab_from_light_blue_stained_glass_stonecutting": {
-    "criteria": {
-      "has_light_blue_stained_glass": "2025-06-24 19:09:50 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-24 18:56:01 +0000"
@@ -11150,12 +11138,6 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/light_blue_stained_glass_wall_from_light_blue_stained_glass_stonecutting": {
-    "criteria": {
-      "has_light_blue_stained_glass": "2025-06-24 19:09:50 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-24 18:56:01 +0000"
@@ -11195,12 +11177,6 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_flourishing_sapling": {
     "criteria": {
       "has_journal": "2025-06-24 18:56:01 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/light_blue_stained_glass_slab": {
-    "criteria": {
-      "has_light_blue_stained_glass": "2025-06-24 19:09:50 +0000"
     },
     "done": true
   },
@@ -11249,12 +11225,6 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-06-24 18:56:01 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:novice_spell_book": {
-    "criteria": {
-      "has_novice_spell_book": "2025-06-24 18:57:36 +0000"
     },
     "done": true
   },
@@ -11774,12 +11744,6 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/light_blue_stained_glass_stairs": {
-    "criteria": {
-      "has_light_blue_stained_glass": "2025-06-24 19:09:50 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-06-24 18:56:01 +0000"
@@ -12119,6 +12083,42 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-24 18:56:01 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-06-24 18:57:36 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/light_blue_stained_glass_stairs_from_light_blue_stained_glass_stonecutting": {
+    "criteria": {
+      "has_light_blue_stained_glass": "2025-06-24 19:09:50 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/light_blue_stained_glass_slab_from_light_blue_stained_glass_stonecutting": {
+    "criteria": {
+      "has_light_blue_stained_glass": "2025-06-24 19:09:50 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/light_blue_stained_glass_wall_from_light_blue_stained_glass_stonecutting": {
+    "criteria": {
+      "has_light_blue_stained_glass": "2025-06-24 19:09:50 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/light_blue_stained_glass_slab": {
+    "criteria": {
+      "has_light_blue_stained_glass": "2025-06-24 19:09:50 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/light_blue_stained_glass_stairs": {
+    "criteria": {
+      "has_light_blue_stained_glass": "2025-06-24 19:09:50 +0000"
     },
     "done": true
   },
