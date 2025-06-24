@@ -438,3 +438,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jun2025 20:46:51.733] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [24Jun2025 20:47:39.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [24Jun2025 20:47:39.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[24Jun2025 20:57:57.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Horse['Pegaso'/21532, l='ServerLevel[world]', x=-95.18, y=79.00, z=-121.89] died: Pegaso fell from a high place
+[24Jun2025 21:00:00.438] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 57.73 μs. 0/148 recipes are parallelized.
+[24Jun2025 21:03:16.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Creative Mode]
+[24Jun2025 21:03:38.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jun2025 21:03:38.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[24Jun2025 21:04:10.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Survival Mode]
