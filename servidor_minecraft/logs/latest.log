@@ -555,3 +555,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jun2025 22:48:39.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved too quickly! -18.059394028304496,-2.5709414270096005,6.3832560524536035
 [24Jun2025 22:50:58.058] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
 [24Jun2025 22:52:14.302] [Worker-Main-184/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[24Jun2025 22:56:19.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jun2025 22:56:19.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ll<--[HERE]
+[24Jun2025 22:57:33.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> tp pliz
+[24Jun2025 22:57:49.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[24Jun2025 22:58:08.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[24Jun2025 22:58:08.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]

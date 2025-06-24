@@ -12135,6 +12135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-06-24 23:03:01 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/chiseled_deepslate_slab_from_chiseled_deepslate_stonecutting": {
     "criteria": {
       "has_chiseled_deepslate": "2025-06-24 21:17:29 +0000"
@@ -12153,6 +12159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 23:01:31 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_wood_wall_from_oak_wood_stonecutting": {
     "criteria": {
       "has_oak_wood": "2025-06-24 20:45:03 +0000"
@@ -12168,6 +12180,12 @@
   "l2archery:recipes/combat/upgrade": {
     "criteria": {
       "has_amethyst_shard": "2025-06-24 20:15:01 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_sand_wall_from_soul_sand_stonecutting": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 23:01:31 +0000"
     },
     "done": true
   },
@@ -12207,9 +12225,33 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_sand_stairs_from_soul_sand_stonecutting": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_sand_stairs": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_sand_wall": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 23:01:31 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/deepslate_wall": {
     "criteria": {
       "has_deepslate": "2025-06-24 20:40:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 23:01:31 +0000"
     },
     "done": true
   },
@@ -12231,15 +12273,33 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_sand_slab": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 23:01:31 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/chiseled_deepslate_slab": {
     "criteria": {
       "has_chiseled_deepslate": "2025-06-24 21:17:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 23:01:31 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_wood_wall": {
     "criteria": {
       "has_oak_wood": "2025-06-24 20:45:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_sand_slab_from_soul_sand_stonecutting": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 23:01:31 +0000"
     },
     "done": true
   },
