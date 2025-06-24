@@ -436,3 +436,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jun2025 02:08:43.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> nomas no sabia hacerlo
 [24Jun2025 02:08:52.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> q era?
 [24Jun2025 02:09:12.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> llegar desde la ventana de nuestro cuarto hasta su casa de un solo salto
+[24Jun2025 02:14:37.743] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 217.5 μs. 292/292 recipes are parallelized.
+[24Jun2025 02:16:09.023] [Worker-Main-29/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/12208, l='ServerLevel[world]', x=870.00, y=31.00, z=136.00] as it would cause deadlock
+[24Jun2025 02:16:38.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=71, z=-155} BlockPos{x=-146, y=69, z=-154}
+[24Jun2025 02:16:38.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=71, z=-155} BlockPos{x=-146, y=69, z=-154}
+[24Jun2025 02:17:56.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has completed the challenge [Sniper Duel]
+[24Jun2025 02:19:49.965] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15199, l='ServerLevel[world]', x=887.00, y=31.00, z=-331.00] as it would cause deadlock
