@@ -10592,27 +10592,57 @@
     },
     "done": true
   },
-  "l2archery:recipes/combat/storm_arrow": {
-    "criteria": {
-      "has_phantom_membrane": "2025-06-24 03:24:19 +0000"
-    },
-    "done": true
-  },
   "l2archery:archery/root": {
     "criteria": {
       "0": "2025-06-24 02:58:25 +0000"
     },
     "done": true
   },
-  "l2archery:recipes/combat/destroyer_arrow": {
+  "l2archery:recipes/starter_bow": {
     "criteria": {
-      "has_explosion_shard": "2025-06-24 03:59:01 +0000"
+      "has_bow": "2025-06-24 02:58:25 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/sculkium_scythe": {
+    "criteria": {
+      "has_sculkium_scythe": "2025-06-24 03:08:05 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/storm_arrow": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-24 03:24:19 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/no_fall_arrow": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-24 03:24:19 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/iron_arrow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-24 03:35:27 +0000"
     },
     "done": true
   },
   "l2archery:recipes/combat/starter_arrow": {
     "criteria": {
       "has_iron_nugget": "2025-06-24 03:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-06-24 03:47:52 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/destroyer_arrow": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-24 03:59:01 +0000"
     },
     "done": true
   },
@@ -10625,36 +10655,6 @@
   "l2archery:recipes/combat/gold_arrow": {
     "criteria": {
       "has_gold_ingot": "2025-06-24 04:10:41 +0000"
-    },
-    "done": true
-  },
-  "l2archery:recipes/combat/no_fall_arrow": {
-    "criteria": {
-      "has_phantom_membrane": "2025-06-24 03:24:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-06-24 03:47:52 +0000"
-    },
-    "done": true
-  },
-  "l2archery:recipes/starter_bow": {
-    "criteria": {
-      "has_bow": "2025-06-24 02:58:25 +0000"
-    },
-    "done": true
-  },
-  "l2archery:recipes/combat/iron_arrow": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-24 03:35:27 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/misc/generated/recycle/sculkium_scythe": {
-    "criteria": {
-      "has_sculkium_scythe": "2025-06-24 03:08:05 +0000"
     },
     "done": true
   },

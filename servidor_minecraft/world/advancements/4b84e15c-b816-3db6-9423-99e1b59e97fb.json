@@ -10763,6 +10763,12 @@
     },
     "done": true
   },
+  "l2archery:archery/gaia_bow": {
+    "criteria": {
+      "0": "2025-06-24 05:12:45 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/enchantments/enchantments/projectile_reject": {
     "criteria": {
       "has_force_field": "2025-06-24 05:11:53 +0000"

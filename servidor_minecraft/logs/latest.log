@@ -418,3 +418,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jun2025 05:09:44.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
 [24Jun2025 05:11:08.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has reached the goal [Power of the Earth]
 [24Jun2025 05:12:45.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has completed the challenge [Indestructable Archer]
+[24Jun2025 05:19:08.142] [Worker-Main-21/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/8179, l='ServerLevel[world]', x=-734.00, y=31.00, z=161.00] as it would cause deadlock
+[24Jun2025 05:19:22.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferlein[/127.59.10.170:41213] logged in with entity id 8391 at (-375.9585505896695, 85.42165708990987, -156.7344810876699)
+[24Jun2025 05:19:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
+[24Jun2025 05:19:22.460] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[24Jun2025 05:19:22.567] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
+[24Jun2025 05:22:26.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> tp pliz
+[24Jun2025 05:23:19.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Digame?
+[24Jun2025 05:23:24.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> tp pliz, a Alex
+[24Jun2025 05:23:38.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Ferlein]
+[24Jun2025 05:24:20.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has completed the challenge [Indestructable Archer]
+[24Jun2025 05:25:45.276] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 227.4 μs. 292/292 recipes are parallelized.
+[24Jun2025 05:25:46.274] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Axolotl['Ajolonso'/243, l='ServerLevel[world]', x=-355.33, y=78.00, z=-276.92] died: Ajolonso has its soul burnt out by JustRaptor
+[24Jun2025 05:25:46.275] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Axolotl['Ajolandro II'/246, l='ServerLevel[world]', x=-352.10, y=78.00, z=-277.30] died: Ajolandro II has its soul burnt out by JustRaptor
+[24Jun2025 05:25:46.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Axolotl['Ajolita'/245, l='ServerLevel[world]', x=-360.83, y=78.00, z=-273.54] died: Ajolita has its soul burnt out by JustRaptor
