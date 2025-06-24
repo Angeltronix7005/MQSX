@@ -9980,5 +9980,41 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_wood_slab_from_oak_wood_stonecutting": {
+    "criteria": {
+      "has_oak_wood": "2025-06-24 20:54:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_wood_slab": {
+    "criteria": {
+      "has_oak_wood": "2025-06-24 20:54:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_wood_wall_from_oak_wood_stonecutting": {
+    "criteria": {
+      "has_oak_wood": "2025-06-24 20:54:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_wood_stairs_from_oak_wood_stonecutting": {
+    "criteria": {
+      "has_oak_wood": "2025-06-24 20:54:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_wood_stairs": {
+    "criteria": {
+      "has_oak_wood": "2025-06-24 20:54:52 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_wood_wall": {
+    "criteria": {
+      "has_oak_wood": "2025-06-24 20:54:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
