@@ -10727,9 +10727,45 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/blue_ice_stairs": {
+    "criteria": {
+      "has_blue_ice": "2025-06-24 05:33:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_slab": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/blue_ice_wall": {
+    "criteria": {
+      "has_blue_ice": "2025-06-24 05:33:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_wall_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
+    },
+    "done": true
+  },
   "l2archery:archery/iron_bow": {
     "criteria": {
       "0": "2025-06-24 05:02:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_stairs": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_slab_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
     },
     "done": true
   },
@@ -10757,15 +10793,39 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-06-24 05:33:42 +0000"
+    },
+    "done": true
+  },
   "l2archery:archery/turtle_bow": {
     "criteria": {
       "0": "2025-06-24 05:02:13 +0000"
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-06-24 05:33:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/blue_ice_slab": {
+    "criteria": {
+      "has_blue_ice": "2025-06-24 05:33:42 +0000"
+    },
+    "done": true
+  },
   "l2archery:archery/gaia_bow": {
     "criteria": {
       "0": "2025-06-24 05:12:45 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/frozen_arrow": {
+    "criteria": {
+      "has_blue_ice": "2025-06-24 05:33:42 +0000"
     },
     "done": true
   },
@@ -10781,11 +10841,23 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-06-24 05:33:42 +0000"
+    },
+    "done": true
+  },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
       "nova_structures:nether_skeleton_tower_basalt": "2025-06-24 05:23:32 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
+    },
+    "done": true
   },
   "nova_structures:nether/find_skeleton_tower": {
     "criteria": {
@@ -10793,9 +10865,21 @@
     },
     "done": false
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_wall": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
+    },
+    "done": true
+  },
   "l2archery:recipes/eagle_bow": {
     "criteria": {
       "has_iron_bow": "2025-06-24 05:02:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_stairs_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
     },
     "done": true
   },
