@@ -10658,5 +10658,11 @@
     },
     "done": true
   },
+  "l2archery:archery/gaia_bow": {
+    "criteria": {
+      "0": "2025-06-24 05:24:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -10781,6 +10781,18 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-06-24 05:23:32 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-06-24 05:23:32 +0000"
+    },
+    "done": false
+  },
   "l2archery:recipes/eagle_bow": {
     "criteria": {
       "has_iron_bow": "2025-06-24 05:02:03 +0000"
