@@ -12189,6 +12189,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cracked_deepslate_bricks_slab_from_smeltingnull": {
+    "criteria": {
+      "has_deepslate_brick_slab": "2025-06-24 22:19:42 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/deepslate_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-06-24 20:40:49 +0000"
