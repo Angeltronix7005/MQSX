@@ -561,3 +561,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jun2025 22:57:49.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
 [24Jun2025 22:58:08.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
 [24Jun2025 22:58:08.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
+[24Jun2025 23:07:04.844] [Worker-Main-182/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[24Jun2025 23:07:04.880] [Worker-Main-182/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[24Jun2025 23:13:01.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jun2025 23:13:01.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
