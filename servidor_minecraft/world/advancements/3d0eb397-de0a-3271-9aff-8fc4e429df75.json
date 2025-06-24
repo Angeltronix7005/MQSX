@@ -8311,5 +8311,11 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_planks_wall": {
+    "criteria": {
+      "has_dark_oak_fence": "2025-06-24 02:06:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
