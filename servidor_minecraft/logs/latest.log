@@ -419,3 +419,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jun2025 20:07:18.871] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [24Jun2025 20:07:18.909] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [24Jun2025 20:17:20.370] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 704.8 μs. 1059/1059 recipes are parallelized.
+[24Jun2025 20:26:02.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.13.104.245:39701] logged in with entity id 21506 at (-193.25634273279866, 77.0, -163.73273823042476)
+[24Jun2025 20:26:02.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
+[24Jun2025 20:26:02.385] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[24Jun2025 20:26:03.310] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
+[24Jun2025 20:26:21.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jun2025 20:26:21.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[24Jun2025 20:29:34.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein a server operator]
+[24Jun2025 20:33:04.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-342, y=-14, z=-554} BlockPos{x=-343, y=-14, z=-556}
