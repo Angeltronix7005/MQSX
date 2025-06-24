@@ -418,3 +418,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jun2025 20:06:06.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [24Jun2025 20:07:18.871] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [24Jun2025 20:07:18.909] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[24Jun2025 20:17:20.370] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 704.8 μs. 1059/1059 recipes are parallelized.
