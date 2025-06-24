@@ -12123,9 +12123,21 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/chiseled_deepslate_stairs": {
+    "criteria": {
+      "has_chiseled_deepslate": "2025-06-24 21:17:29 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_wood_slab_from_oak_wood_stonecutting": {
     "criteria": {
       "has_oak_wood": "2025-06-24 20:45:03 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/chiseled_deepslate_slab_from_chiseled_deepslate_stonecutting": {
+    "criteria": {
+      "has_chiseled_deepslate": "2025-06-24 21:17:29 +0000"
     },
     "done": true
   },
@@ -12165,6 +12177,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/chiseled_deepslate_stairs_from_chiseled_deepslate_stonecutting": {
+    "criteria": {
+      "has_chiseled_deepslate": "2025-06-24 21:17:29 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/deepslate_stairs": {
     "criteria": {
       "has_deepslate": "2025-06-24 20:40:49 +0000"
@@ -12189,9 +12207,27 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/chiseled_deepslate_wall_from_chiseled_deepslate_stonecutting": {
+    "criteria": {
+      "has_chiseled_deepslate": "2025-06-24 21:17:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/chiseled_deepslate_wall": {
+    "criteria": {
+      "has_chiseled_deepslate": "2025-06-24 21:17:29 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/deepslate_stairs_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2025-06-24 20:40:49 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/chiseled_deepslate_slab": {
+    "criteria": {
+      "has_chiseled_deepslate": "2025-06-24 21:17:29 +0000"
     },
     "done": true
   },
