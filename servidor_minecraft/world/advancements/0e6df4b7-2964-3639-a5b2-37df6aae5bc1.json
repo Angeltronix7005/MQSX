@@ -12147,6 +12147,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_planks_wall_from_cherry_planks_stonecutting": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-24 23:21:49 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_wood_slab": {
     "criteria": {
       "has_oak_wood": "2025-06-24 20:45:03 +0000"

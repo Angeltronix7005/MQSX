@@ -565,3 +565,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jun2025 23:07:04.880] [Worker-Main-182/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [24Jun2025 23:13:01.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [24Jun2025 23:13:01.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[24Jun2025 23:18:23.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein no longer a server operator]
