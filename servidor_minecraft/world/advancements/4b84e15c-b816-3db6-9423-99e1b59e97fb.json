@@ -10571,6 +10571,18 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_log_wall_to_planks": {
+    "criteria": {
+      "has_jungle_log_wall": "2025-06-24 22:28:08 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_slab_from_stripped_jungle_log_stonecutting": {
+    "criteria": {
+      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/legendary/spear_of_winter_storm": {
     "criteria": {
       "has_hard_ice": "2025-06-24 21:40:10 +0000"
@@ -10583,9 +10595,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_stairs": {
+    "criteria": {
+      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_wall_from_stripped_jungle_log_stonecutting": {
+    "criteria": {
+      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
   "l2archery:archery/winter_bow": {
     "criteria": {
       "0": "2025-06-24 21:42:00 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_slab": {
+    "criteria": {
+      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_log_slab_to_planks": {
+    "criteria": {
+      "has_jungle_log_slab": "2025-06-24 22:25:48 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_stairs_from_stripped_jungle_log_stonecutting": {
+    "criteria": {
+      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_wall": {
+    "criteria": {
+      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-24 22:26:16 +0000"
     },
     "done": true
   },

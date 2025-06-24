@@ -526,3 +526,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jun2025 21:44:46.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=61, z=-184} BlockPos{x=-93, y=91, z=-59}
 [24Jun2025 21:45:04.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=61, z=-184} BlockPos{x=-101, y=94, z=-75}
 [24Jun2025 21:47:17.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[24Jun2025 22:26:46.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Jun2025 22:26:46.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
