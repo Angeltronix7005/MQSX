@@ -1656,12 +1656,6 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/shinny": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-16 04:14:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 04:14:01 +0000"
@@ -1873,24 +1867,6 @@
     "done": true
   },
   "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-04-18 01:18:14 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/durable_armor_1": {
-    "criteria": {
-      "has_diamond": "2025-04-18 01:18:14 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/durable_armor_2": {
-    "criteria": {
-      "has_diamond": "2025-04-18 01:18:14 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/durable_armor_3": {
     "criteria": {
       "has_diamond": "2025-04-18 01:18:14 +0000"
     },
@@ -2671,12 +2647,6 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/snow_walker": {
-    "criteria": {
-      "has_leather": "2025-04-19 04:12:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-19 04:12:05 +0000"
@@ -2761,12 +2731,6 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/safeguard": {
-    "criteria": {
-      "has_book": "2025-04-19 04:34:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-04-19 04:34:10 +0000"
@@ -2780,12 +2744,6 @@
     "done": true
   },
   "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-04-19 04:34:10 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/life_mending": {
     "criteria": {
       "has_book": "2025-04-19 04:34:10 +0000"
     },
@@ -3716,12 +3674,6 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-04-20 04:08:42 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/stable_body": {
-    "criteria": {
-      "has_crying_obsidian": "2025-04-20 04:08:42 +0000"
     },
     "done": true
   },
@@ -5897,18 +5849,6 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
-    "criteria": {
-      "has_anvil": "2025-05-03 06:11:02 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/enchantments/enchantments/heavy": {
-    "criteria": {
-      "has_anvil": "2025-05-03 06:11:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-05-03 06:15:37 +0000"
@@ -6302,12 +6242,6 @@
   "l2complements:recipes/burnt/burnt/cooked_rabbit": {
     "criteria": {
       "has_cooked_rabbit": "2025-05-10 02:16:23 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/ender_reach": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-10 02:46:29 +0000"
     },
     "done": true
   },
@@ -6857,12 +6791,6 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/enchantments/enchantments/claw_shielding": {
-    "criteria": {
-      "has_warden_bone_shard": "2025-05-30 05:31:44 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/craft/sculkium_ingot": {
     "criteria": {
       "has_warden_bone_shard": "2025-05-30 05:31:44 +0000"
@@ -7055,12 +6983,6 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/ender_mask": {
-    "criteria": {
-      "has_ender_eye": "2025-05-30 23:21:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-05-30 23:21:26 +0000"
@@ -7122,12 +7044,6 @@
     "done": true
   },
   "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-05-31 02:44:38 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/owner_protection": {
     "criteria": {
       "has_nether_star": "2025-05-31 02:44:38 +0000"
     },
@@ -7229,36 +7145,6 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/vien_mining": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/cubic_digging": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/drill_digging": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/tree_chopping": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/plane_digging": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/legendary/void_escape": {
     "criteria": {
       "has_storm_core": "2025-06-01 05:15:50 +0000"
@@ -7272,12 +7158,6 @@
     "done": true
   },
   "l2complements:recipes/misc/craft/diffusion_wand": {
-    "criteria": {
-      "has_storm_core": "2025-06-01 05:15:50 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/enchantments/enchantments/instant_shot": {
     "criteria": {
       "has_storm_core": "2025-06-01 05:15:50 +0000"
     },
@@ -7302,12 +7182,6 @@
     "done": true
   },
   "l2weaponry:recipes/tools/generated/craft/shulkerate_spear_enchanted": {
-    "criteria": {
-      "has_shulkerate_ingot": "2025-06-01 05:16:12 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/hardened": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-01 05:16:12 +0000"
     },
@@ -7349,12 +7223,6 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/enchantments/enchantments/hard_shield": {
-    "criteria": {
-      "has_shulkerate_ingot": "2025-06-01 05:16:12 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/tools/generated/craft/shulkerate_throwing_axe_enchanted": {
     "criteria": {
       "has_shulkerate_ingot": "2025-06-01 05:16:12 +0000"
@@ -7385,37 +7253,7 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/enchantments/enchantments/energized_will": {
-    "criteria": {
-      "has_soul_flame": "2025-06-01 05:28:20 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/soul_flame_thorn": {
-    "criteria": {
-      "has_soul_flame": "2025-06-01 05:28:20 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/soul_flame_blade": {
-    "criteria": {
-      "has_soul_flame": "2025-06-01 05:28:20 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/legendary/axe_of_cursed_flame": {
-    "criteria": {
-      "has_soul_flame": "2025-06-01 05:28:20 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/smelt": {
-    "criteria": {
-      "has_soul_flame": "2025-06-01 05:28:20 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/enchantments/enchantments/raised_spirit": {
     "criteria": {
       "has_soul_flame": "2025-06-01 05:28:20 +0000"
     },
@@ -7434,12 +7272,6 @@
     "done": true
   },
   "l2weaponry:recipes/combat/legendary/claw_of_determination": {
-    "criteria": {
-      "has_sun_membrane": "2025-06-02 00:10:10 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/fire_reject": {
     "criteria": {
       "has_sun_membrane": "2025-06-02 00:10:10 +0000"
     },
@@ -7625,18 +7457,6 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/plane_eater": {
-    "criteria": {
-      "has_blackstone_core": "2025-06-02 03:42:54 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/cubic_eater": {
-    "criteria": {
-      "has_blackstone_core": "2025-06-02 03:42:54 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/vanilla/renew/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_blackstone_core": "2025-06-02 03:42:54 +0000"
@@ -7652,12 +7472,6 @@
   "l2complements:recipes/misc/vanilla/renew/gilded_blackstone": {
     "criteria": {
       "has_blackstone_core": "2025-06-02 03:42:54 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/soul_bound": {
-    "criteria": {
-      "has_void_eye": "2025-06-04 05:05:05 +0000"
     },
     "done": true
   },
@@ -7680,18 +7494,6 @@
     "done": true
   },
   "l2weaponry:recipes/combat/legendary/haunting_demon_of_the_end": {
-    "criteria": {
-      "has_void_eye": "2025-06-04 05:05:05 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/enchantments/enchantments/projection": {
-    "criteria": {
-      "has_void_eye": "2025-06-04 05:05:05 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/environment_reject": {
     "criteria": {
       "has_void_eye": "2025-06-04 05:05:05 +0000"
     },
@@ -7752,12 +7554,6 @@
     "done": true
   },
   "l2weaponry:recipes/tools/generated/craft/poseidite_round_shield_enchanted": {
-    "criteria": {
-      "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/enchantments/enchantments/ender_hand": {
     "criteria": {
       "has_poseidite_ingot": "2025-06-07 05:54:10 +0000"
     },
@@ -10601,12 +10397,6 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/explosion_reject": {
-    "criteria": {
-      "has_explosion_shard": "2025-06-24 04:23:45 +0000"
-    },
-    "done": true
-  },
   "l2archery:archery/explosion_bow": {
     "criteria": {
       "0": "2025-06-24 04:23:57 +0000"
@@ -10637,135 +10427,9 @@
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/distortion": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/glow_aim": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2archery:recipes/enchantments/enchantments/harm": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/chaotic": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2archery:recipes/enchantments/enchantments/weak": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2archery:recipes/enchantments/enchantments/levitate": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2archery:recipes/enchantments/enchantments/wither": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2archery:recipes/enchantments/enchantments/float": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/explode": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/magnify": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/explosion_break": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2archery:recipes/enchantments/enchantments/glow": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2archery:recipes/enchantments/enchantments/poison": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2archery:recipes/enchantments/enchantments/heal": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "l2archery:recipes/enchantments/enchantments/slow": {
-    "criteria": {
-      "has_book": "2025-06-24 04:38:28 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/blue_ice_stairs": {
-    "criteria": {
-      "has_blue_ice": "2025-06-24 05:33:42 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_slab": {
-    "criteria": {
-      "has_packed_ice": "2025-06-24 05:32:43 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/blue_ice_wall": {
-    "criteria": {
-      "has_blue_ice": "2025-06-24 05:33:42 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_wall_from_packed_ice_stonecutting": {
-    "criteria": {
-      "has_packed_ice": "2025-06-24 05:32:43 +0000"
-    },
-    "done": true
-  },
   "l2archery:archery/iron_bow": {
     "criteria": {
       "0": "2025-06-24 05:02:03 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_stairs": {
-    "criteria": {
-      "has_packed_ice": "2025-06-24 05:32:43 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_slab_from_packed_ice_stonecutting": {
-    "criteria": {
-      "has_packed_ice": "2025-06-24 05:32:43 +0000"
     },
     "done": true
   },
@@ -10775,9 +10439,21 @@
     },
     "done": true
   },
+  "l2archery:recipes/eagle_bow": {
+    "criteria": {
+      "has_iron_bow": "2025-06-24 05:02:03 +0000"
+    },
+    "done": true
+  },
   "l2archery:recipes/earth_bow": {
     "criteria": {
       "has_turtle_bow": "2025-06-24 05:02:13 +0000"
+    },
+    "done": true
+  },
+  "l2archery:archery/turtle_bow": {
+    "criteria": {
+      "0": "2025-06-24 05:02:13 +0000"
     },
     "done": true
   },
@@ -10793,15 +10469,81 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/blue_ice_wall_from_blue_ice_stonecutting": {
+  "l2archery:archery/gaia_bow": {
+    "criteria": {
+      "0": "2025-06-24 05:12:45 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-06-24 05:23:32 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-06-24 05:23:32 +0000"
+    },
+    "done": false
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_slab": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_wall_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_stairs": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_slab_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_wall": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_stairs_from_packed_ice_stonecutting": {
+    "criteria": {
+      "has_packed_ice": "2025-06-24 05:32:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/blue_ice_stairs": {
     "criteria": {
       "has_blue_ice": "2025-06-24 05:33:42 +0000"
     },
     "done": true
   },
-  "l2archery:archery/turtle_bow": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/blue_ice_wall": {
     "criteria": {
-      "0": "2025-06-24 05:02:13 +0000"
+      "has_blue_ice": "2025-06-24 05:33:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-06-24 05:33:42 +0000"
     },
     "done": true
   },
@@ -10817,69 +10559,15 @@
     },
     "done": true
   },
-  "l2archery:archery/gaia_bow": {
-    "criteria": {
-      "0": "2025-06-24 05:12:45 +0000"
-    },
-    "done": true
-  },
   "l2archery:recipes/combat/frozen_arrow": {
     "criteria": {
       "has_blue_ice": "2025-06-24 05:33:42 +0000"
     },
     "done": true
   },
-  "l2complements:recipes/enchantments/enchantments/projectile_reject": {
-    "criteria": {
-      "has_force_field": "2025-06-24 05:11:53 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/life_sync": {
-    "criteria": {
-      "has_force_field": "2025-06-24 05:11:53 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/blue_ice_slab_from_blue_ice_stonecutting": {
     "criteria": {
       "has_blue_ice": "2025-06-24 05:33:42 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_nether_skeleton": {
-    "criteria": {
-      "nova_structures:nether_skeleton_tower_basalt": "2025-06-24 05:23:32 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-06-24 05:32:43 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_skeleton_tower": {
-    "criteria": {
-      "nova_structures:nether_skeleton_tower_basalt": "2025-06-24 05:23:32 +0000"
-    },
-    "done": false
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_wall": {
-    "criteria": {
-      "has_packed_ice": "2025-06-24 05:32:43 +0000"
-    },
-    "done": true
-  },
-  "l2archery:recipes/eagle_bow": {
-    "criteria": {
-      "has_iron_bow": "2025-06-24 05:02:03 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/packed_ice_stairs_from_packed_ice_stonecutting": {
-    "criteria": {
-      "has_packed_ice": "2025-06-24 05:32:43 +0000"
     },
     "done": true
   },
