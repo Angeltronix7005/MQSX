@@ -1594,6 +1594,7 @@
       "minecraft:spider": "2025-04-16 16:13:34 +0000",
       "minecraft:piglin_brute": "2025-05-05 02:32:40 +0000",
       "minecraft:creeper": "2025-04-18 01:27:22 +0000",
+      "minecraft:wither": "2025-06-24 04:00:27 +0000",
       "minecraft:evoker": "2025-05-10 03:09:43 +0000",
       "minecraft:slime": "2025-06-09 05:40:39 +0000",
       "minecraft:phantom": "2025-05-19 04:46:54 +0000",
@@ -8314,6 +8315,48 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dark_oak_planks_wall": {
     "criteria": {
       "has_dark_oak_fence": "2025-06-24 02:06:29 +0000"
+    },
+    "done": true
+  },
+  "l2archery:archery/root": {
+    "criteria": {
+      "0": "2025-06-24 02:46:31 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/starter_bow": {
+    "criteria": {
+      "has_bow": "2025-06-24 02:46:31 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/storm_arrow": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-24 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/no_fall_arrow": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-24 03:24:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/iron_arrow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-24 03:39:39 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/starter_arrow": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-24 03:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-06-24 03:59:14 +0000"
     },
     "done": true
   },

@@ -10385,5 +10385,377 @@
     },
     "done": true
   },
+  "l2archery:archery/root": {
+    "criteria": {
+      "0": "2025-06-24 02:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/starter_bow": {
+    "criteria": {
+      "has_bow": "2025-06-24 02:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/gold_arrow": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-24 03:03:21 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/fire_arrow_lv1": {
+    "criteria": {
+      "has_soul_soil": "2025-06-24 03:09:46 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/ender_arrow": {
+    "criteria": {
+      "has_obsidian": "2025-06-24 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/obsidian_arrow": {
+    "criteria": {
+      "has_obsidian": "2025-06-24 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/diamond_arrow": {
+    "criteria": {
+      "has_diamond": "2025-06-24 03:09:48 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/iron_arrow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-24 03:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/kill_axolotl_target": {
+    "criteria": {
+      "kill_axolotl_target": "2025-06-24 03:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-06-24 03:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-06-24 03:31:02 +0000"
+    },
+    "done": true
+  },
+  "l2archery:archery/starter_bow": {
+    "criteria": {
+      "0": "2025-06-24 03:32:10 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/master_bow": {
+    "criteria": {
+      "has_starter_bow": "2025-06-24 03:32:10 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/iron_bow": {
+    "criteria": {
+      "has_starter_bow": "2025-06-24 03:32:10 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/glow_aim_bow": {
+    "criteria": {
+      "has_starter_bow": "2025-06-24 03:32:10 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/copper_arrow": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-24 03:42:53 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/froze_bow": {
+    "criteria": {
+      "has_master_bow": "2025-06-24 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/storm_bow": {
+    "criteria": {
+      "has_master_bow": "2025-06-24 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "l2archery:archery/master_bow": {
+    "criteria": {
+      "0": "2025-06-24 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/flame_bow": {
+    "criteria": {
+      "has_master_bow": "2025-06-24 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/slow_bow": {
+    "criteria": {
+      "has_master_bow": "2025-06-24 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/fire_arrow_lv2": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-24 03:43:38 +0000"
+    },
+    "done": true
+  },
+  "l2archery:archery/flame_bow": {
+    "criteria": {
+      "0": "2025-06-24 03:44:36 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/explosion_bow": {
+    "criteria": {
+      "has_flame_bow": "2025-06-24 03:44:36 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_sand_wall_from_soul_sand_stonecutting": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 03:45:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_sand_stairs_from_soul_sand_stonecutting": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 03:45:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_sand_stairs": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 03:45:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_sand_wall": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 03:45:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_sand_slab": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 03:45:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/soul_sand_slab_from_soul_sand_stonecutting": {
+    "criteria": {
+      "has_soul_sand": "2025-06-24 03:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2025-06-24 03:58:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_jungle_trapdoor": "2025-06-24 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/destroyer_arrow": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-24 04:23:45 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/tearing_arrow": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-24 04:23:45 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/eternium_nugget": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-24 04:23:45 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/renew/ancient_debris": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-24 04:23:45 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/explosion_reject": {
+    "criteria": {
+      "has_explosion_shard": "2025-06-24 04:23:45 +0000"
+    },
+    "done": true
+  },
+  "l2archery:archery/explosion_bow": {
+    "criteria": {
+      "0": "2025-06-24 04:23:57 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/sun_bow": {
+    "criteria": {
+      "has_explosion_bow": "2025-06-24 04:23:57 +0000"
+    },
+    "done": true
+  },
+  "l2archery:archery/sun_bow": {
+    "criteria": {
+      "0": "2025-06-24 04:35:11 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/storm_arrow": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-24 04:36:48 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/no_fall_arrow": {
+    "criteria": {
+      "has_phantom_membrane": "2025-06-24 04:36:48 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/distortion": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/glow_aim": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/enchantments/enchantments/harm": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/chaotic": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/enchantments/enchantments/weak": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/enchantments/enchantments/levitate": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/enchantments/enchantments/wither": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/enchantments/enchantments/float": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/explode": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/magnify": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/explosion_break": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/enchantments/enchantments/glow": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/enchantments/enchantments/poison": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/enchantments/enchantments/heal": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/enchantments/enchantments/slow": {
+    "criteria": {
+      "has_book": "2025-06-24 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:archery/iron_bow": {
+    "criteria": {
+      "0": "2025-06-24 05:02:03 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/turtle_bow": {
+    "criteria": {
+      "has_iron_bow": "2025-06-24 05:02:03 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/earth_bow": {
+    "criteria": {
+      "has_turtle_bow": "2025-06-24 05:02:13 +0000"
+    },
+    "done": true
+  },
+  "l2archery:archery/turtle_bow": {
+    "criteria": {
+      "0": "2025-06-24 05:02:13 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/eagle_bow": {
+    "criteria": {
+      "has_iron_bow": "2025-06-24 05:02:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
