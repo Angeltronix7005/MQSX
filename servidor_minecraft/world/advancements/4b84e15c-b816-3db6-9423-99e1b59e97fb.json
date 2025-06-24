@@ -10571,6 +10571,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-06-24 22:40:06 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_log_wall_to_planks": {
     "criteria": {
       "has_jungle_log_wall": "2025-06-24 22:28:08 +0000"
@@ -10586,6 +10592,12 @@
   "l2weaponry:recipes/combat/legendary/spear_of_winter_storm": {
     "criteria": {
       "has_hard_ice": "2025-06-24 21:40:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-06-24 22:40:06 +0000"
     },
     "done": true
   },
@@ -10622,6 +10634,18 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_slab": {
     "criteria": {
       "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-06-24 22:40:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2025-06-24 22:40:06 +0000"
     },
     "done": true
   },
