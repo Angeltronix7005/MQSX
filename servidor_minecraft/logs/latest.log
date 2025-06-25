@@ -426,3 +426,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jun2025 00:16:57.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
 [25Jun2025 00:16:57.232] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
 [25Jun2025 00:16:57.572] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
+[25Jun2025 00:22:46.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
+[25Jun2025 00:22:53.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[25Jun2025 00:23:40.262] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[25Jun2025 00:23:40.355] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[25Jun2025 00:23:57.254] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 59.94 μs. 0/148 recipes are parallelized.
+[25Jun2025 00:29:47.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[25Jun2025 00:31:33.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Mystical Crystal]
