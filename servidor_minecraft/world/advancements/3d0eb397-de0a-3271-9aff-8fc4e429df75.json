@@ -10022,5 +10022,47 @@
     },
     "done": true
   },
+  "l2archery:archery/iron_bow": {
+    "criteria": {
+      "0": "2025-06-25 00:33:18 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/turtle_bow": {
+    "criteria": {
+      "has_iron_bow": "2025-06-25 00:33:18 +0000"
+    },
+    "done": true
+  },
+  "l2archery:archery/starter_bow": {
+    "criteria": {
+      "0": "2025-06-25 00:32:27 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/master_bow": {
+    "criteria": {
+      "has_starter_bow": "2025-06-25 00:32:27 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/eagle_bow": {
+    "criteria": {
+      "has_iron_bow": "2025-06-25 00:33:18 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/iron_bow": {
+    "criteria": {
+      "has_starter_bow": "2025-06-25 00:32:27 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/glow_aim_bow": {
+    "criteria": {
+      "has_starter_bow": "2025-06-25 00:32:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

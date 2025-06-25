@@ -12329,5 +12329,191 @@
     },
     "done": true
   },
+  "l2archery:recipes/upgrades/explosion_breaker": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/slowness": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/heal": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/curse": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/punch": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:archery/upgrade": {
+    "criteria": {
+      "0": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/double_charge": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/harm": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/weak": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/cleanse": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/blackstone": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/wither": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/poison": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/soul_fire": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/frozen": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/levitation": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/magnify_x2": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/magnify_x4": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/magnify_x8": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/glowing": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/advanced_infinity": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/flux_up": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/damage": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/railgun": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/void": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/levitate": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/corrosion": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/glow": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/explosion": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/super_damage": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/upgrades/anti_gravity": {
+    "criteria": {
+      "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
