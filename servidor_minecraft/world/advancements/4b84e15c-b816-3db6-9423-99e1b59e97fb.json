@@ -10571,6 +10571,108 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/legendary/spear_of_winter_storm": {
+    "criteria": {
+      "has_hard_ice": "2025-06-24 21:40:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/winterstorm_wand": {
+    "criteria": {
+      "has_hard_ice": "2025-06-24 21:40:10 +0000"
+    },
+    "done": true
+  },
+  "l2archery:archery/winter_bow": {
+    "criteria": {
+      "0": "2025-06-24 21:42:00 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_log_slab_to_planks": {
+    "criteria": {
+      "has_jungle_log_slab": "2025-06-24 22:25:48 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_slab_from_stripped_jungle_log_stonecutting": {
+    "criteria": {
+      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_stairs": {
+    "criteria": {
+      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_wall_from_stripped_jungle_log_stonecutting": {
+    "criteria": {
+      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_slab": {
+    "criteria": {
+      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_stairs_from_stripped_jungle_log_stonecutting": {
+    "criteria": {
+      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_wall": {
+    "criteria": {
+      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-24 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_log_wall_to_planks": {
+    "criteria": {
+      "has_jungle_log_wall": "2025-06-24 22:28:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-06-24 22:40:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-06-24 22:40:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-06-24 22:40:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2025-06-24 22:40:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/dull_trinket": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
@@ -10721,12 +10823,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
-    "criteria": {
-      "cooked_salmon_slice": "2025-06-24 22:40:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
@@ -10736,12 +10832,6 @@
   "ars_nouveau:recipes/misc/wing_to_leather": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_log_wall_to_planks": {
-    "criteria": {
-      "has_jungle_log_wall": "2025-06-24 22:28:08 +0000"
     },
     "done": true
   },
@@ -10961,12 +11051,6 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_slab_from_stripped_jungle_log_stonecutting": {
-    "criteria": {
-      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
@@ -11123,12 +11207,6 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/combat/legendary/spear_of_winter_storm": {
-    "criteria": {
-      "has_hard_ice": "2025-06-24 21:40:10 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
@@ -11153,21 +11231,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_salmon_slice": {
-    "criteria": {
-      "cooked_salmon_slice": "2025-06-24 22:40:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_forestation": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/craft/winterstorm_wand": {
-    "criteria": {
-      "has_hard_ice": "2025-06-24 21:40:10 +0000"
     },
     "done": true
   },
@@ -11513,12 +11579,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
-    "criteria": {
-      "has_log": "2025-06-24 22:26:16 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
@@ -11528,18 +11588,6 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_stairs": {
-    "criteria": {
-      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_wall_from_stripped_jungle_log_stonecutting": {
-    "criteria": {
-      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
     },
     "done": true
   },
@@ -11564,12 +11612,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
-    },
-    "done": true
-  },
-  "l2archery:archery/winter_bow": {
-    "criteria": {
-      "0": "2025-06-24 21:42:00 +0000"
     },
     "done": true
   },
@@ -11603,12 +11645,6 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_slab": {
-    "criteria": {
-      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
@@ -11624,12 +11660,6 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
-    "criteria": {
-      "cooked_salmon_slice": "2025-06-24 22:40:06 +0000"
     },
     "done": true
   },
@@ -11765,12 +11795,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/salmon_roll": {
-    "criteria": {
-      "has_salmon_slice": "2025-06-24 22:40:06 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/source_gem_block": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
@@ -11828,18 +11852,6 @@
   "ars_nouveau:recipes/misc/rotating_spell_turret": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/jungle_log_slab_to_planks": {
-    "criteria": {
-      "has_jungle_log_slab": "2025-06-24 22:25:48 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_stairs_from_stripped_jungle_log_stonecutting": {
-    "criteria": {
-      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
     },
     "done": true
   },
@@ -12125,12 +12137,6 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_jungle_log_wall": {
-    "criteria": {
-      "has_stripped_jungle_log": "2025-06-24 22:26:16 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
@@ -12266,12 +12272,6 @@
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2025-06-24 23:03:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-24 22:26:16 +0000"
     },
     "done": true
   },
