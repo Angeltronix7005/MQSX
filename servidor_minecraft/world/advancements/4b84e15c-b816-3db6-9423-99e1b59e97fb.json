@@ -12582,15 +12582,15 @@
     },
     "done": true
   },
-  "l2archery:recipes/combat/acid_arrow": {
-    "criteria": {
-      "has_fermented_spider_eye": "2025-06-25 03:02:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-06-25 02:57:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/acid_arrow": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-06-25 03:02:02 +0000"
     },
     "done": true
   },
