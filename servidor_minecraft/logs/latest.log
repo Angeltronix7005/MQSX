@@ -452,3 +452,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jun2025 04:48:58.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=138, z=-113} BlockPos{x=-106, y=138, z=-115}
 [25Jun2025 04:48:59.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-108, y=138, z=-117} BlockPos{x=-106, y=138, z=-121}
 [25Jun2025 04:48:59.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=138, z=-123} BlockPos{x=-104, y=138, z=-123}
+[25Jun2025 04:55:02.207] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[25Jun2025 04:55:02.279] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[25Jun2025 04:55:30.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=138, z=-112} BlockPos{x=-106, y=138, z=-118}
+[25Jun2025 04:59:19.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> bueno muchachos a dormir
+[25Jun2025 05:00:02.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> que desccancen
+[25Jun2025 05:00:07.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> buena noche
+[25Jun2025 05:00:09.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[25Jun2025 05:00:09.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[25Jun2025 05:00:09.877] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[25Jun2025 05:00:09.877] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[25Jun2025 05:00:17.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[25Jun2025 05:00:17.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[25Jun2025 05:00:17.670] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[25Jun2025 05:00:17.671] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[25Jun2025 05:00:37.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[25Jun2025 05:00:37.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[25Jun2025 05:00:37.724] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[25Jun2025 05:00:37.725] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[25Jun2025 05:00:46.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Jun2025 05:00:46.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jun2025 05:00:46.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jun2025 05:00:46.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jun2025 05:00:46.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jun2025 05:00:46.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jun2025 05:00:47.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jun2025 05:00:47.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jun2025 05:00:47.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jun2025 05:00:47.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jun2025 05:00:47.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Jun2025 05:00:47.081] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
