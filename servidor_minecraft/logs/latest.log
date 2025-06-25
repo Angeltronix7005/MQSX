@@ -441,3 +441,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jun2025 02:32:03.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
 [25Jun2025 02:33:57.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
 [25Jun2025 02:35:01.524] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 52.09 μs. 0/148 recipes are parallelized.
+[25Jun2025 02:57:51.128] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 710.7 μs. 1059/1059 recipes are parallelized.
