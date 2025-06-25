@@ -428,3 +428,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jun2025 04:08:46.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ahí tienes
 [25Jun2025 04:10:16.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Survival Mode]
 [25Jun2025 04:10:23.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein no longer a server operator]
+[25Jun2025 04:16:13.915] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[25Jun2025 04:16:14.061] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[25Jun2025 04:18:23.777] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 781.6 μs. 1059/1059 recipes are parallelized.
+[25Jun2025 04:21:59.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> nene tienes andamios que me regales?
