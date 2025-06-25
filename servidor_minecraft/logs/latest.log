@@ -438,3 +438,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jun2025 04:30:25.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> zzzzzzzzzzzzzzzzzzzzzzzzzzz
 [25Jun2025 04:36:19.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved too quickly! 1.2001622624062236,0.0,-9.982465568503017
 [25Jun2025 04:41:47.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-373, y=86, z=-402} BlockPos{x=-368, y=85, z=-398}
+[25Jun2025 04:43:51.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> tp pliz
+[25Jun2025 04:44:01.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[25Jun2025 04:44:05.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ty
+[25Jun2025 04:44:49.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> esta madre no cumple con los standares de seguridad pa
+[25Jun2025 04:45:02.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> re peligroso eso
+[25Jun2025 04:45:18.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> y sigues bajando las trampillas >:u
+[25Jun2025 04:45:28.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> no
+[25Jun2025 04:45:33.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> yo estaba abajo
+[25Jun2025 04:45:44.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> por hacer el chiste me caí
+[25Jun2025 04:46:00.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> grax
+[25Jun2025 04:48:55.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=138, z=-122} BlockPos{x=-96, y=138, z=-115}
+[25Jun2025 04:48:58.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=138, z=-113} BlockPos{x=-106, y=138, z=-115}
+[25Jun2025 04:48:59.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-108, y=138, z=-117} BlockPos{x=-106, y=138, z=-121}
+[25Jun2025 04:48:59.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=138, z=-123} BlockPos{x=-104, y=138, z=-123}
