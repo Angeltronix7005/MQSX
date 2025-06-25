@@ -12563,5 +12563,11 @@
     },
     "done": true
   },
+  "l2archery:recipes/combat/upgrade": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-25 02:14:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
