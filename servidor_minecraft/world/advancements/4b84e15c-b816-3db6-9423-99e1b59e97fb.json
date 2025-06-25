@@ -38,6 +38,7 @@
       "minecraft:forest": "2025-04-16 03:19:56 +0000",
       "minecraft:lush_caves": "2025-05-03 01:13:33 +0000",
       "minecraft:deep_cold_ocean": "2025-06-16 01:11:54 +0000",
+      "minecraft:ice_spikes": "2025-06-25 02:20:39 +0000",
       "minecraft:frozen_ocean": "2025-04-19 05:08:16 +0000",
       "minecraft:ocean": "2025-04-19 04:16:21 +0000",
       "minecraft:jungle": "2025-04-23 04:17:01 +0000",
@@ -12563,9 +12564,21 @@
     },
     "done": true
   },
+  "l2archery:archery/froze_bow": {
+    "criteria": {
+      "0": "2025-06-25 02:25:06 +0000"
+    },
+    "done": true
+  },
   "l2archery:recipes/combat/upgrade": {
     "criteria": {
       "has_amethyst_shard": "2025-06-25 02:14:40 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/winter_bow": {
+    "criteria": {
+      "has_froze_bow": "2025-06-25 02:25:06 +0000"
     },
     "done": true
   },

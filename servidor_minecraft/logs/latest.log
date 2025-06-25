@@ -426,3 +426,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jun2025 02:00:24.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-112, y=119, z=-110} BlockPos{x=-111, y=118, z=-111}
 [25Jun2025 02:14:52.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [25Jun2025 02:14:52.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[25Jun2025 02:20:30.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved too quickly! -10.658418253421473,3.2693380451370473,-14.319310135173794
+[25Jun2025 02:25:06.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Watch it Shake]
+[25Jun2025 02:29:37.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[25Jun2025 02:29:37.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[25Jun2025 02:29:37.980] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[25Jun2025 02:29:37.982] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[25Jun2025 02:29:39.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Spectator Mode]
+[25Jun2025 02:29:49.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.35.18.255:34191] logged in with entity id 13697 at (-328.62275654772384, 71.0, -241.80839237696196)
+[25Jun2025 02:29:49.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[25Jun2025 02:29:49.247] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[25Jun2025 02:29:49.426] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
