@@ -7169,3 +7169,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jun2025 02:55:53.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jun2025 02:55:53.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Jun2025 02:57:51.128] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 710.7 μs. 1059/1059 recipes are parallelized.
+[25Jun2025 03:00:53.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 03:00:53.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 03:01:43.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-93, y=122, z=-129} BlockPos{x=-90, y=123, z=-126}
+[25Jun2025 03:01:44.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-93, y=122, z=-129} BlockPos{x=-91, y=123, z=-125}
+[25Jun2025 03:01:45.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-92, y=124, z=-124} BlockPos{x=-94, y=123, z=-128}
+[25Jun2025 03:01:45.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-92, y=124, z=-124} BlockPos{x=-93, y=123, z=-129}
+[25Jun2025 03:01:47.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=122, z=-129} BlockPos{x=-90, y=123, z=-128}
+[25Jun2025 03:01:47.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=122, z=-129} BlockPos{x=-90, y=123, z=-128}
+[25Jun2025 03:03:05.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-94, y=123, z=-126} BlockPos{x=-93, y=123, z=-124}
+[25Jun2025 03:03:06.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-92, y=123, z=-124} BlockPos{x=-95, y=123, z=-126}
+[25Jun2025 03:05:53.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 03:05:53.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
