@@ -438,3 +438,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jun2025 00:34:36.892] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Axolotl['SantasLechonas'/259, l='ServerLevel[world]', x=-359.72, y=78.00, z=-273.30] died: SantasLechonas has its soul burnt out by JustRaptor
 [25Jun2025 00:36:45.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> zzzzzzzzzzz
 [25Jun2025 00:37:22.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[25Jun2025 00:58:25.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor was killed
+[25Jun2025 00:58:25.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
+[25Jun2025 00:58:33.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
+[25Jun2025 00:59:18.256] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 726.8 μs. 1059/1059 recipes are parallelized.
