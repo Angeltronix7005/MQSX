@@ -442,3 +442,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jun2025 00:58:25.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed JustRaptor]
 [25Jun2025 00:58:33.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
 [25Jun2025 00:59:18.256] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 726.8 μs. 1059/1059 recipes are parallelized.
+[25Jun2025 01:24:53.302] [Server thread/INFO] [betterendisland/]: Found all crystals, respawning dragon.
+[25Jun2025 01:25:16.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[25Jun2025 01:25:16.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[25Jun2025 01:25:16.162] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[25Jun2025 01:25:16.163] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[25Jun2025 01:25:16.213] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Jun2025 01:25:23.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has reached the goal [The End... Again...]
+[25Jun2025 01:25:23.516] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[25Jun2025 01:25:23.547] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[25Jun2025 01:28:06.231] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferlein[/127.59.10.170:54827] logged in with entity id 29298 at (-107.32374289589038, 104.5, -114.19291466904266)
+[25Jun2025 01:28:06.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
+[25Jun2025 01:28:06.283] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[25Jun2025 01:28:07.702] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded

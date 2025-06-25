@@ -12377,9 +12377,27 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-06-25 01:21:01 +0000"
+    },
+    "done": true
+  },
   "l2archery:recipes/upgrades/weak": {
     "criteria": {
       "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-25 01:21:01 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-06-25 01:21:01 +0000"
     },
     "done": true
   },
@@ -12404,6 +12422,12 @@
   "l2archery:recipes/upgrades/poison": {
     "criteria": {
       "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-25 01:21:01 +0000"
     },
     "done": true
   },
@@ -12443,9 +12467,21 @@
     },
     "done": true
   },
+  "l2archery:recipes/combat/tnt_arrow_lv2": {
+    "criteria": {
+      "has_end_crystal": "2025-06-25 01:20:17 +0000"
+    },
+    "done": true
+  },
   "l2archery:recipes/upgrades/glowing": {
     "criteria": {
       "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-06-25 01:21:01 +0000"
     },
     "done": true
   },
@@ -12488,6 +12524,18 @@
   "l2archery:recipes/upgrades/corrosion": {
     "criteria": {
       "has_upgrade": "2025-06-25 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-06-25 01:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-06-25 01:25:23 +0000"
     },
     "done": true
   },
