@@ -7815,3 +7815,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jun2025 01:28:06.283] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
 [25Jun2025 01:28:07.702] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
 [25Jun2025 01:32:30.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11
+[25Jun2025 01:32:54.770] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[25Jun2025 01:32:57.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 01:32:57.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 01:35:55.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has made the advancement [Free the End]
+[25Jun2025 01:36:05.641] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[25Jun2025 01:36:40.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[25Jun2025 01:36:55.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[25Jun2025 01:37:49.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> nene creativo
+[25Jun2025 01:37:51.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pero ya
+[25Jun2025 01:37:57.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 01:37:57.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 01:38:30.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set Ferlein's game mode to Creative Mode]
+[25Jun2025 01:38:47.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
+[25Jun2025 01:39:11.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set Ferlein's game mode to Survival Mode]
+[25Jun2025 01:41:44.207] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_small
+[25Jun2025 01:41:44.213] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_straight_big
+[25Jun2025 01:41:44.216] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_small
+[25Jun2025 01:41:44.218] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_small
+[25Jun2025 01:41:44.221] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_big
+[25Jun2025 01:41:44.222] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/fallback/conduit_ruin_room_fail
+[25Jun2025 01:41:44.228] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_straight_1
+[25Jun2025 01:41:44.229] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_2
+[25Jun2025 01:41:44.230] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_3
+[25Jun2025 01:41:44.233] [Worker-Main-69/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[25Jun2025 01:41:44.320] [Worker-Main-69/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[25Jun2025 01:42:05.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to JustRaptor]
+[25Jun2025 01:42:14.100] [Server thread/INFO] [betterendisland/]: Found all crystals, respawning dragon.
+[25Jun2025 01:42:44.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has reached the goal [The End... Again...]
+[25Jun2025 01:42:44.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has reached the goal [The End... Again...]
+[25Jun2025 01:42:44.290] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[25Jun2025 01:42:44.300] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[25Jun2025 01:42:46.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]

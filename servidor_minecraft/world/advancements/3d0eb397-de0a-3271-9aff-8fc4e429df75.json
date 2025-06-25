@@ -1598,6 +1598,7 @@
       "minecraft:evoker": "2025-05-10 03:09:43 +0000",
       "minecraft:slime": "2025-06-09 05:40:39 +0000",
       "minecraft:phantom": "2025-05-19 04:46:54 +0000",
+      "minecraft:ender_dragon": "2025-06-25 01:35:55 +0000",
       "minecraft:shulker": "2025-06-11 03:36:41 +0000",
       "minecraft:piglin": "2025-04-27 18:22:46 +0000",
       "minecraft:enderman": "2025-04-16 17:02:46 +0000",
@@ -10043,6 +10044,12 @@
   "l2archery:recipes/master_bow": {
     "criteria": {
       "has_starter_bow": "2025-06-25 00:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-06-25 01:35:55 +0000"
     },
     "done": true
   },
