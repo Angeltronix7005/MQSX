@@ -10077,5 +10077,11 @@
     },
     "done": true
   },
+  "l2archery:recipes/combat/diamond_arrow": {
+    "criteria": {
+      "has_diamond": "2025-06-26 04:34:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
