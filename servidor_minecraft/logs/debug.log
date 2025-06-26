@@ -6060,3 +6060,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Jun2025 04:24:07.232] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
 [26Jun2025 04:24:08.249] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [26Jun2025 04:24:08.253] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[26Jun2025 04:27:04.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 04:27:04.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 04:32:04.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 04:32:04.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 04:32:30.897] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-172, y=85, z=-170}) doesn't have enough leaves around top most log
+[26Jun2025 04:34:07.410] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 790.0 μs. 1059/1059 recipes are parallelized.
