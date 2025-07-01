@@ -12346,6 +12346,12 @@
     },
     "done": true
   },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-07-01 03:09:42 +0000"
+    },
+    "done": true
+  },
   "l2archery:recipes/combat/copper_arrow": {
     "criteria": {
       "has_copper_ingot": "2025-07-01 02:56:09 +0000"

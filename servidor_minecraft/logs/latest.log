@@ -448,3 +448,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jul2025 02:54:19.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [01Jul2025 02:54:19.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [01Jul2025 03:01:26.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved too quickly! -10.498090150729865,0.0,-0.3275185283125097
+[01Jul2025 03:06:08.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-63, y=70, z=-130} BlockPos{x=-63, y=69, z=-130}
+[01Jul2025 03:07:44.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> zzz
+[01Jul2025 03:08:00.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> zzzzzzzzzzz
+[01Jul2025 03:09:42.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Imbued]
