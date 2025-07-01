@@ -12352,9 +12352,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-07-01 03:53:12 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-07-01 03:47:26 +0000"
+    },
+    "done": true
+  },
   "l2archery:recipes/combat/copper_arrow": {
     "criteria": {
       "has_copper_ingot": "2025-07-01 02:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-07-01 03:53:12 +0000"
     },
     "done": true
   },
