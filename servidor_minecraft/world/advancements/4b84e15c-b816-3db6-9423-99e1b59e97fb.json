@@ -12594,5 +12594,53 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bamboo_block_wall_from_bamboo_block_stonecutting": {
+    "criteria": {
+      "has_bamboo_block": "2025-07-01 04:10:58 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bamboo_block_wall": {
+    "criteria": {
+      "has_bamboo_block": "2025-07-01 04:10:58 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bamboo_planks_wall": {
+    "criteria": {
+      "has_bamboo_fence": "2025-07-01 04:13:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bamboo_planks_wall_from_bamboo_planks_stonecutting": {
+    "criteria": {
+      "has_bamboo_planks": "2025-07-01 04:12:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bamboo_block_slab_from_bamboo_block_stonecutting": {
+    "criteria": {
+      "has_bamboo_block": "2025-07-01 04:10:58 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bamboo_block_slab": {
+    "criteria": {
+      "has_bamboo_block": "2025-07-01 04:10:58 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bamboo_block_stairs_from_bamboo_block_stonecutting": {
+    "criteria": {
+      "has_bamboo_block": "2025-07-01 04:10:58 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bamboo_block_stairs": {
+    "criteria": {
+      "has_bamboo_block": "2025-07-01 04:10:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
