@@ -442,3 +442,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jul2025 02:44:32.296] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [01Jul2025 02:44:32.383] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [01Jul2025 02:45:00.424] [Worker-Main-40/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/23457, l='ServerLevel[world]', x=-523.00, y=31.00, z=820.00] as it would cause deadlock
+[01Jul2025 02:48:14.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> wenas
+[01Jul2025 02:51:08.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> tp pliz
+[01Jul2025 02:51:14.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[01Jul2025 02:54:19.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2025 02:54:19.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
