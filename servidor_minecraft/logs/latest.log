@@ -458,3 +458,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jul2025 03:45:11.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [01Jul2025 03:45:11.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [01Jul2025 03:47:26.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Magic Mod Mechanic]
+[01Jul2025 03:57:44.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2025 03:57:44.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[01Jul2025 03:59:23.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-789, y=72, z=-326} BlockPos{x=-788, y=72, z=-323}
+[01Jul2025 04:05:44.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> tp pls
+[01Jul2025 04:06:03.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
