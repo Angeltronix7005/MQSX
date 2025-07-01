@@ -414,3 +414,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jul2025 01:52:12.701] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
 [01Jul2025 01:52:26.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> wenas
 [01Jul2025 01:52:33.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> wenas
+[01Jul2025 02:05:47.414] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 785.8 μs. 1059/1059 recipes are parallelized.
+[01Jul2025 02:12:06.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
+[01Jul2025 02:13:59.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
