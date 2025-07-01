@@ -401,3 +401,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jul2025 01:35:21.464] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
 [01Jul2025 01:35:21.465] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
 [01Jul2025 01:35:21.474] [Server thread/WARN] [ModernFix/]: Dedicated server took 42.221 seconds to load
+[01Jul2025 01:47:13.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.35.18.255:39345] logged in with entity id 2 at (-413.3204059300328, 87.5, -247.41759883503252)
+[01Jul2025 01:47:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[01Jul2025 01:47:13.605] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[01Jul2025 01:47:14.884] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[01Jul2025 01:48:44.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2025 01:48:44.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[01Jul2025 01:51:07.090] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 6.808 ms. 2805/2889 recipes are parallelized.
+[01Jul2025 01:52:11.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angeltronix7005[/127.193.151.90:43967] logged in with entity id 1141 at (-256.1596557408624, 87.5, -280.30907438750603)
+[01Jul2025 01:52:11.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 joined the game
+[01Jul2025 01:52:12.019] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[01Jul2025 01:52:12.701] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
+[01Jul2025 01:52:26.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> wenas
+[01Jul2025 01:52:33.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> wenas
