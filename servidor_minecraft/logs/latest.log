@@ -466,3 +466,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jul2025 04:06:37.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> grax
 [01Jul2025 04:23:52.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [01Jul2025 04:23:52.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[01Jul2025 04:27:59.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[01Jul2025 04:27:59.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[01Jul2025 04:27:59.498] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[01Jul2025 04:27:59.499] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[01Jul2025 04:28:13.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Not a Fluid!]
+[01Jul2025 04:35:38.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> a mimir?
