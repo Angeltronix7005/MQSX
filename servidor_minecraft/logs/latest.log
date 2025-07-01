@@ -417,3 +417,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jul2025 02:05:47.414] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 785.8 μs. 1059/1059 recipes are parallelized.
 [01Jul2025 02:12:06.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
 [01Jul2025 02:13:59.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[01Jul2025 02:15:58.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> puedo coger de sus cultivos?
+[01Jul2025 02:16:00.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> los replanto
+[01Jul2025 02:16:04.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> si
+[01Jul2025 02:16:08.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> oki
+[01Jul2025 02:20:50.566] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/11681, l='ServerLevel[world]', x=-349.00, y=31.00, z=366.00] as it would cause deadlock
+[01Jul2025 02:24:53.217] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13696, l='ServerLevel[world]', x=-415.10, y=31.00, z=384.90] as it would cause deadlock
+[01Jul2025 02:24:53.652] [Worker-Main-40/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13726, l='ServerLevel[world]', x=-373.00, y=31.00, z=463.00] as it would cause deadlock
+[01Jul2025 02:24:54.173] [Worker-Main-43/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13747, l='ServerLevel[world]', x=-420.00, y=31.00, z=342.00] as it would cause deadlock
+[01Jul2025 02:24:58.047] [Worker-Main-43/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13799, l='ServerLevel[world]', x=-483.00, y=31.00, z=417.00] as it would cause deadlock
+[01Jul2025 02:24:58.057] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13807, l='ServerLevel[world]', x=-482.00, y=31.00, z=458.00] as it would cause deadlock
+[01Jul2025 02:25:09.560] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13923, l='ServerLevel[world]', x=-684.00, y=31.00, z=376.00] as it would cause deadlock
+[01Jul2025 02:25:19.976] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14056, l='ServerLevel[world]', x=-795.00, y=31.00, z=620.00] as it would cause deadlock
+[01Jul2025 02:31:23.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-706, y=38, z=546} BlockPos{x=-720, y=37, z=523}
+[01Jul2025 02:34:26.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-757, y=76, z=524} BlockPos{x=-753, y=79, z=551}
