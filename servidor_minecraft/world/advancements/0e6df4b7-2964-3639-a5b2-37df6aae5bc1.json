@@ -12346,15 +12346,15 @@
     },
     "done": true
   },
-  "ars_nouveau:imbuement_chamber": {
+  "l2archery:recipes/combat/copper_arrow": {
     "criteria": {
-      "has_imbuement_chamber": "2025-07-01 03:09:42 +0000"
+      "has_copper_ingot": "2025-07-01 02:56:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_rod": {
+  "ars_nouveau:imbuement_chamber": {
     "criteria": {
-      "has_chorus_fruit_popped": "2025-07-01 03:53:12 +0000"
+      "has_imbuement_chamber": "2025-07-01 03:09:42 +0000"
     },
     "done": true
   },
@@ -12364,9 +12364,9 @@
     },
     "done": true
   },
-  "l2archery:recipes/combat/copper_arrow": {
+  "minecraft:recipes/decorations/end_rod": {
     "criteria": {
-      "has_copper_ingot": "2025-07-01 02:56:09 +0000"
+      "has_chorus_fruit_popped": "2025-07-01 03:53:12 +0000"
     },
     "done": true
   },
