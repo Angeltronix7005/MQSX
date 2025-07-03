@@ -438,3 +438,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 23:26:58.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> auch
 [03Jul2025 23:27:52.401] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 780.3 μs. 1059/1059 recipes are parallelized.
 [03Jul2025 23:31:21.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Magebloom]
+[03Jul2025 23:32:37.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> dile hola a luciana
+[03Jul2025 23:32:47.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> holi Luci
+[03Jul2025 23:32:49.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> como tas?
