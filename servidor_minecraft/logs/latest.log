@@ -421,3 +421,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 23:14:55.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> vale
 [03Jul2025 23:16:58.718] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.221 ms. 2805/2889 recipes are parallelized.
 [03Jul2025 23:21:28.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Where did it go?]
+[03Jul2025 23:25:51.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> me hacer tp?
+[03Jul2025 23:25:54.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> porfa
+[03Jul2025 23:25:56.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[03Jul2025 23:26:06.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> vrg
+[03Jul2025 23:26:08.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
+[03Jul2025 23:26:10.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> comes}
+[03Jul2025 23:26:12.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> me hice tp a ti xd
+[03Jul2025 23:26:17.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> lol
+[03Jul2025 23:26:19.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> xd
+[03Jul2025 23:26:24.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Gamerule keepInventory is now set to: true]
+[03Jul2025 23:26:27.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 was killed
+[03Jul2025 23:26:27.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Angeltronix7005]
+[03Jul2025 23:26:35.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
+[03Jul2025 23:26:45.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> zzzz
+[03Jul2025 23:26:58.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> auch
+[03Jul2025 23:27:52.401] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 780.3 μs. 1059/1059 recipes are parallelized.
+[03Jul2025 23:31:21.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Magebloom]

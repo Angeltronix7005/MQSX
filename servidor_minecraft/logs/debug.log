@@ -6080,3 +6080,141 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 23:20:23.560] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
 [03Jul2025 23:20:23.573] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
 [03Jul2025 23:21:28.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Where did it go?]
+[03Jul2025 23:23:06.517] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[03Jul2025 23:23:08.893] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8b
+[03Jul2025 23:23:09.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 23:23:09.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 23:24:17.257] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[03Jul2025 23:24:36.886] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11
+[03Jul2025 23:25:51.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> me hacer tp?
+[03Jul2025 23:25:54.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> porfa
+[03Jul2025 23:25:56.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[03Jul2025 23:26:06.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> vrg
+[03Jul2025 23:26:08.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :v
+[03Jul2025 23:26:10.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> comes}
+[03Jul2025 23:26:12.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> me hice tp a ti xd
+[03Jul2025 23:26:14.224] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[03Jul2025 23:26:14.225] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[03Jul2025 23:26:14.226] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[03Jul2025 23:26:14.230] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[03Jul2025 23:26:14.232] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[03Jul2025 23:26:14.233] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[03Jul2025 23:26:14.234] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[03Jul2025 23:26:14.235] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[03Jul2025 23:26:14.236] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[03Jul2025 23:26:14.237] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[03Jul2025 23:26:14.238] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[03Jul2025 23:26:14.242] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[03Jul2025 23:26:14.244] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[03Jul2025 23:26:14.251] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[03Jul2025 23:26:14.252] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[03Jul2025 23:26:14.253] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[03Jul2025 23:26:14.256] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[03Jul2025 23:26:14.257] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[03Jul2025 23:26:14.262] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[03Jul2025 23:26:14.263] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[03Jul2025 23:26:14.266] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[03Jul2025 23:26:14.268] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[03Jul2025 23:26:14.271] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[03Jul2025 23:26:14.272] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[03Jul2025 23:26:14.273] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[03Jul2025 23:26:14.276] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[03Jul2025 23:26:14.279] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[03Jul2025 23:26:14.282] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[03Jul2025 23:26:14.282] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[03Jul2025 23:26:14.285] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[03Jul2025 23:26:14.286] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[03Jul2025 23:26:14.287] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[03Jul2025 23:26:14.288] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[03Jul2025 23:26:14.291] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[03Jul2025 23:26:14.291] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[03Jul2025 23:26:14.292] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[03Jul2025 23:26:14.293] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[03Jul2025 23:26:14.293] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[03Jul2025 23:26:14.294] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[03Jul2025 23:26:14.295] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[03Jul2025 23:26:14.295] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[03Jul2025 23:26:14.300] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[03Jul2025 23:26:14.300] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[03Jul2025 23:26:14.301] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[03Jul2025 23:26:14.304] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[03Jul2025 23:26:14.305] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[03Jul2025 23:26:14.306] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[03Jul2025 23:26:14.306] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[03Jul2025 23:26:14.307] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[03Jul2025 23:26:14.308] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[03Jul2025 23:26:14.309] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[03Jul2025 23:26:14.310] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[03Jul2025 23:26:14.310] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[03Jul2025 23:26:14.311] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[03Jul2025 23:26:14.312] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[03Jul2025 23:26:14.312] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[03Jul2025 23:26:14.313] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[03Jul2025 23:26:14.314] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[03Jul2025 23:26:14.314] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[03Jul2025 23:26:14.315] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[03Jul2025 23:26:14.315] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[03Jul2025 23:26:14.316] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[03Jul2025 23:26:14.318] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[03Jul2025 23:26:14.319] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[03Jul2025 23:26:14.320] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[03Jul2025 23:26:14.320] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[03Jul2025 23:26:14.320] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[03Jul2025 23:26:14.321] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[03Jul2025 23:26:14.322] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[03Jul2025 23:26:14.325] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[03Jul2025 23:26:14.326] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[03Jul2025 23:26:14.326] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[03Jul2025 23:26:14.327] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[03Jul2025 23:26:14.327] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[03Jul2025 23:26:14.328] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[03Jul2025 23:26:14.328] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[03Jul2025 23:26:14.329] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[03Jul2025 23:26:14.329] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[03Jul2025 23:26:14.330] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[03Jul2025 23:26:14.330] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[03Jul2025 23:26:14.331] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[03Jul2025 23:26:14.331] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[03Jul2025 23:26:14.331] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[03Jul2025 23:26:14.332] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[03Jul2025 23:26:14.332] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[03Jul2025 23:26:14.333] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[03Jul2025 23:26:14.333] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[03Jul2025 23:26:14.334] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[03Jul2025 23:26:14.334] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[03Jul2025 23:26:14.335] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[03Jul2025 23:26:14.335] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[03Jul2025 23:26:14.336] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[03Jul2025 23:26:14.336] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[03Jul2025 23:26:14.336] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[03Jul2025 23:26:14.337] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[03Jul2025 23:26:14.337] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[03Jul2025 23:26:14.338] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[03Jul2025 23:26:14.338] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[03Jul2025 23:26:14.338] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[03Jul2025 23:26:14.339] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[03Jul2025 23:26:14.343] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[03Jul2025 23:26:14.345] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[03Jul2025 23:26:14.346] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[03Jul2025 23:26:14.346] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[03Jul2025 23:26:14.349] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[03Jul2025 23:26:14.349] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[03Jul2025 23:26:14.350] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[03Jul2025 23:26:14.350] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[03Jul2025 23:26:14.353] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[03Jul2025 23:26:14.353] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[03Jul2025 23:26:14.354] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[03Jul2025 23:26:14.354] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[03Jul2025 23:26:14.357] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[03Jul2025 23:26:17.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> lol
+[03Jul2025 23:26:19.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> xd
+[03Jul2025 23:26:24.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Gamerule keepInventory is now set to: true]
+[03Jul2025 23:26:27.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 was killed
+[03Jul2025 23:26:27.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Killed Angeltronix7005]
+[03Jul2025 23:26:35.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
+[03Jul2025 23:26:45.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> zzzz
+[03Jul2025 23:26:58.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> auch
+[03Jul2025 23:27:52.401] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 780.3 μs. 1059/1059 recipes are parallelized.
+[03Jul2025 23:28:09.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 23:28:09.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 23:31:21.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Magebloom]
