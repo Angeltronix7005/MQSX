@@ -6311,3 +6311,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 05:46:41.501] [Worker-Main-138/DEBUG] [mixin/]: Mixing TreeDecoratorGeneratorMixin from more_slabs_stairs_and_walls-common.mixins.json into net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecorator$Context
 [03Jul2025 05:46:50.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ven nene
 [03Jul2025 05:47:01.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> notas diferencia entre estas?
+[03Jul2025 05:47:23.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 05:47:23.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 05:47:31.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to Ferlein]
+[03Jul2025 05:48:04.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no verdad?
+[03Jul2025 05:48:15.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> nel
+[03Jul2025 05:49:48.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> está quedando muy bonita la casa china
+[03Jul2025 05:49:53.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> di
+[03Jul2025 05:50:02.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ya quiero ver como queda el segundo techo
+[03Jul2025 05:50:07.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> el primero te quedo genial
+[03Jul2025 05:50:30.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> jejeje
+[03Jul2025 05:50:32.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a dormir
+[03Jul2025 05:50:46.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> jejeje
+[03Jul2025 05:50:54.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> puedo iluminar tus ojos
+[03Jul2025 05:51:10.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> a nu mames
+[03Jul2025 05:51:20.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> debia darte vision nocturna, no epilepcia
+[03Jul2025 05:51:22.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> xd
+[03Jul2025 05:51:31.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> venia en ese paquete
+[03Jul2025 05:51:40.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> lel
+[03Jul2025 05:51:55.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a dormir
+[03Jul2025 05:52:13.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ahorita te llamo para mimir
+[03Jul2025 05:52:16.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> bueno
+[03Jul2025 05:52:21.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[03Jul2025 05:52:21.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[03Jul2025 05:52:21.118] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[03Jul2025 05:52:21.119] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[03Jul2025 05:52:23.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 05:52:23.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 05:52:48.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[03Jul2025 05:52:49.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[03Jul2025 05:52:49.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[03Jul2025 05:52:49.112] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[03Jul2025 05:52:49.113] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[03Jul2025 05:52:53.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Jul2025 05:52:53.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Jul2025 05:52:53.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Jul2025 05:52:53.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Jul2025 05:52:53.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Jul2025 05:52:53.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Jul2025 05:52:53.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Jul2025 05:52:53.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 05:52:53.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 05:52:53.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Jul2025 05:52:53.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Jul2025 05:52:53.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Jul2025 05:52:53.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Jul2025 05:52:53.287] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[03Jul2025 05:52:53.288] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[03Jul2025 05:52:53.289] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
