@@ -6045,3 +6045,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 03:53:11.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> si veo tu torre desde la casa china
 [03Jul2025 03:53:16.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> gracias
 [03Jul2025 03:53:34.640] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[03Jul2025 03:56:53.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Yo tengo un moco
+[03Jul2025 03:56:59.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> lo saco poco a poco
+[03Jul2025 03:57:09.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Lo redondeo
+[03Jul2025 03:57:14.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> lo miro con deseo
+[03Jul2025 03:57:19.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Yo me lo como
+[03Jul2025 03:57:23.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 03:57:23.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 03:57:29.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> como me sabe a poco
+[03Jul2025 03:57:41.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> sacamos otro moco
+[03Jul2025 03:57:48.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> y volvemos a empezar
+[03Jul2025 03:57:53.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> yo tengo un moco
+[03Jul2025 03:58:00.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> lo saco poco a poco
+[03Jul2025 03:58:06.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> lo redondeo
+[03Jul2025 03:58:19.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> lo miro con deseo
+[03Jul2025 03:58:28.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Yo me lo como
+[03Jul2025 04:01:19.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> Como me sabe a poco
+[03Jul2025 04:02:16.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> sacamos otro moco
+[03Jul2025 04:02:23.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 04:02:23.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 04:02:29.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> y volvemos a empezar
+[03Jul2025 04:02:37.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> :D
+[03Jul2025 04:02:40.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> perdon por no responder es que algo aqui no esta funcioando
+[03Jul2025 04:03:11.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> no se que hice pero los frascos se estan pasando mana entre ellos en lugar de guardarlo
+[03Jul2025 04:03:23.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a
+[03Jul2025 04:03:35.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> llegará el punto en que se llenen todos
+[03Jul2025 04:03:49.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pues si pero no es asi como deberia funcionar
+[03Jul2025 04:03:57.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> i dont know
+[03Jul2025 04:05:08.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> por fin
+[03Jul2025 04:05:33.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> yepa
+[03Jul2025 04:05:41.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> nice
+[03Jul2025 04:05:46.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -6.364977074413957,-5.033581701892004,7.743909591794392
+[03Jul2025 04:05:55.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ahora a esperar
+[03Jul2025 04:06:00.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> te ayudo en algo mientras?
