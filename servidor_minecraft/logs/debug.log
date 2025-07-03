@@ -6297,3 +6297,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 05:36:43.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> la hice transparente
 [03Jul2025 05:36:46.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a
 [03Jul2025 05:36:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> si no elijo color no se ve
+[03Jul2025 05:37:23.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 05:37:23.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 05:37:25.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> te aviso cuando logre aumentar el brillo?
+[03Jul2025 05:41:32.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> necesito que sea de noche para probar la mejora de la luz
+[03Jul2025 05:41:58.353] [Worker-Main-138/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[03Jul2025 05:42:23.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 05:42:23.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 05:42:30.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set the time to 13000]
+[03Jul2025 05:42:36.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> gracias nene
+[03Jul2025 05:44:22.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> creo que no aumentó
+[03Jul2025 05:45:29.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=72, z=-47} BlockPos{x=-138, y=70, z=-47}
+[03Jul2025 05:46:41.501] [Worker-Main-138/DEBUG] [mixin/]: Mixing TreeDecoratorGeneratorMixin from more_slabs_stairs_and_walls-common.mixins.json into net.minecraft.world.level.levelgen.feature.treedecorators.TreeDecorator$Context
+[03Jul2025 05:46:50.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ven nene
+[03Jul2025 05:47:01.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> notas diferencia entre estas?
