@@ -12642,5 +12642,11 @@
     },
     "done": true
   },
+  "ars_nouveau:wilden_tribute": {
+    "criteria": {
+      "has_wilden_tribute": "2025-07-04 03:19:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
