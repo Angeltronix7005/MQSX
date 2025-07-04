@@ -12649,6 +12649,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-07-04 04:45:02 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/starter_arrow": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-04 04:45:25 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/cut_sandstone_wall": {
     "criteria": {
       "has_cut_sandstone": "2025-07-04 03:46:33 +0000"
@@ -12688,6 +12700,12 @@
   "l2archery:recipes/combat/tnt_arrow_lv1": {
     "criteria": {
       "has_tnt": "2025-07-04 03:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-07-04 04:46:14 +0000"
     },
     "done": true
   },
