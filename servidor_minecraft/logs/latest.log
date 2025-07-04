@@ -53,3 +53,7 @@
 [04Jul2025 01:16:59.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [04Jul2025 01:16:59.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [04Jul2025 01:20:51.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=63, z=-142} BlockPos{x=-19, y=62, z=-152}
+[04Jul2025 01:25:15.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> aqui voy a invocar al chamuco
+[04Jul2025 01:27:05.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-18, y=62, z=-152} BlockPos{x=-25, y=62, z=-156}
+[04Jul2025 01:31:15.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=197, y=78, z=-175} BlockPos{x=198, y=76, z=-175}
+[04Jul2025 01:31:16.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=197, y=78, z=-175} BlockPos{x=199, y=78, z=-175}
