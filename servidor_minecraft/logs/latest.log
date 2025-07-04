@@ -44,3 +44,5 @@
 [04Jul2025 00:19:56.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> esto va a chupar mana como un desgraciado
 [04Jul2025 00:21:32.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> me voy a unir a discord
 [04Jul2025 00:36:54.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=62, z=-158} BlockPos{x=-30, y=62, z=-163}
+[04Jul2025 00:47:59.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=63, z=-157} BlockPos{x=-32, y=63, z=-156}
+[04Jul2025 00:50:25.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=63, z=-139} BlockPos{x=-33, y=63, z=-153}
