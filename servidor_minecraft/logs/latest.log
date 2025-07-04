@@ -114,3 +114,7 @@
 [04Jul2025 04:09:51.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
 [04Jul2025 04:10:11.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
 [04Jul2025 04:15:10.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein was doomed to fall by Angeltronix7005
+[04Jul2025 04:15:59.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[04Jul2025 04:15:59.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[04Jul2025 04:15:59.562] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[04Jul2025 04:15:59.562] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
