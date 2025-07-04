@@ -6390,3 +6390,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 01:42:46.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> ahhhh xd
 [04Jul2025 01:43:09.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2025 01:43:09.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 01:48:09.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 01:48:09.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 01:53:09.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 01:53:09.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 01:53:34.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has reached the goal [This Seems Familiar...]
