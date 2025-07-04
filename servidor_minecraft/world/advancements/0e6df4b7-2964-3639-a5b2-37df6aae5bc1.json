@@ -12382,6 +12382,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/red_concrete_powder_wall": {
+    "criteria": {
+      "has_red_concrete_powder": "2025-07-04 00:59:09 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:magebloom_crop": {
     "criteria": {
       "has_magebloom_crop": "2025-07-03 23:31:21 +0000"
@@ -12394,15 +12400,45 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/red_concrete_powder_stairs": {
+    "criteria": {
+      "has_red_concrete_powder": "2025-07-04 00:59:09 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:poof_mob": {
     "criteria": {
       "poof_mob": "2025-07-03 23:21:28 +0000"
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/red_concrete_powder_slab_from_red_concrete_powder_stonecutting": {
+    "criteria": {
+      "has_red_concrete_powder": "2025-07-04 00:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-07-03 23:48:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/red_concrete_powder_stairs_from_red_concrete_powder_stonecutting": {
+    "criteria": {
+      "has_red_concrete_powder": "2025-07-04 00:59:09 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/red_concrete_powder_slab": {
+    "criteria": {
+      "has_red_concrete_powder": "2025-07-04 00:59:09 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/red_concrete_powder_wall_from_red_concrete_powder_stonecutting": {
+    "criteria": {
+      "has_red_concrete_powder": "2025-07-04 00:59:09 +0000"
     },
     "done": true
   },
