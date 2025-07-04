@@ -19,6 +19,8 @@
       "minecraft:deep_ocean": "2025-06-10 03:20:04 +0000",
       "minecraft:frozen_river": "2025-04-18 02:15:54 +0000",
       "minecraft:cherry_grove": "2025-06-24 19:56:12 +0000",
+      "minecraft:wooded_badlands": "2025-07-04 03:50:49 +0000",
+      "minecraft:badlands": "2025-07-04 03:47:54 +0000",
       "minecraft:beach": "2025-04-16 03:07:59 +0000",
       "minecraft:dark_forest": "2025-04-19 04:24:45 +0000",
       "minecraft:river": "2025-04-16 03:09:16 +0000",
@@ -34,6 +36,7 @@
       "minecraft:deep_cold_ocean": "2025-06-16 01:17:38 +0000",
       "minecraft:ice_spikes": "2025-04-18 02:15:00 +0000",
       "minecraft:frozen_ocean": "2025-04-19 05:08:23 +0000",
+      "minecraft:desert": "2025-07-04 03:44:54 +0000",
       "minecraft:ocean": "2025-04-19 04:17:17 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-29 03:46:54 +0000",
       "minecraft:snowy_beach": "2025-04-19 05:05:36 +0000",
@@ -12400,6 +12403,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/orange_terracotta_wall": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-04 03:45:16 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/lapis_block_slab": {
     "criteria": {
       "has_lapis_block": "2025-07-04 03:12:49 +0000"
@@ -12421,6 +12430,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/emerald_block_wall_from_emerald_block_stonecutting": {
     "criteria": {
       "has_emerald_block": "2025-07-04 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-07-04 03:45:30 +0000"
     },
     "done": true
   },
@@ -12484,6 +12499,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/orange_terracotta_slab": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-04 03:45:16 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:poof_mob": {
     "criteria": {
       "poof_mob": "2025-07-03 23:21:28 +0000"
@@ -12526,9 +12547,21 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/orange_terracotta_wall_from_orange_terracotta_stonecutting": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-04 03:45:16 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:familiar": {
     "criteria": {
       "familiar": "2025-07-04 01:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-04 03:45:16 +0000"
     },
     "done": true
   },
@@ -12556,6 +12589,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/orange_terracotta_stairs_from_orange_terracotta_stonecutting": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-04 03:45:16 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/emerald_block_slab": {
     "criteria": {
       "has_emerald_block": "2025-07-04 03:12:54 +0000"
@@ -12565,6 +12604,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/red_concrete_wall": {
     "criteria": {
       "has_red_concrete": "2025-07-04 03:18:38 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/orange_terracotta_stairs": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-04 03:45:16 +0000"
     },
     "done": true
   },
@@ -12625,6 +12670,12 @@
   "l2complements:recipes/diffusion/diffusion/deepslate_emerald_ore": {
     "criteria": {
       "has_emerald_block": "2025-07-04 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/orange_terracotta_slab_from_orange_terracotta_stonecutting": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-04 03:45:16 +0000"
     },
     "done": true
   },

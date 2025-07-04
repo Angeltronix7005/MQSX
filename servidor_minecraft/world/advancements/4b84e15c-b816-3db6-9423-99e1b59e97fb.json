@@ -40,6 +40,7 @@
       "minecraft:deep_cold_ocean": "2025-06-16 01:11:54 +0000",
       "minecraft:ice_spikes": "2025-06-25 02:20:39 +0000",
       "minecraft:frozen_ocean": "2025-04-19 05:08:16 +0000",
+      "minecraft:desert": "2025-07-04 03:45:08 +0000",
       "minecraft:ocean": "2025-04-19 04:16:21 +0000",
       "minecraft:jungle": "2025-04-23 04:17:01 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-03 01:12:23 +0000",
@@ -12648,6 +12649,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cut_sandstone_wall": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-04 03:46:33 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:apprentice_spell_book": {
     "criteria": {
       "has_apprentice_spell_book": "2025-07-04 03:24:13 +0000"
@@ -12687,6 +12694,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/dye_gray_wool_stairs": {
     "criteria": {
       "has_needed_dye": "2025-07-04 03:38:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cut_sandstone_wall_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-04 03:46:33 +0000"
     },
     "done": true
   },
