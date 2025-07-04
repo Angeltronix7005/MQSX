@@ -12394,6 +12394,12 @@
     },
     "done": true
   },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-07-04 02:47:40 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:magebloom_crop": {
     "criteria": {
       "has_magebloom_crop": "2025-07-03 23:31:21 +0000"
@@ -12412,9 +12418,21 @@
     },
     "done": true
   },
+  "l2archery:recipes/combat/ender_arrow": {
+    "criteria": {
+      "has_obsidian": "2025-07-04 02:47:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:poof_mob": {
     "criteria": {
       "poof_mob": "2025-07-03 23:21:28 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/obsidian_arrow": {
+    "criteria": {
+      "has_obsidian": "2025-07-04 02:47:15 +0000"
     },
     "done": true
   },
