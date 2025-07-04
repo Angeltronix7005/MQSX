@@ -12685,6 +12685,12 @@
     },
     "done": true
   },
+  "l2archery:recipes/combat/tnt_arrow_lv1": {
+    "criteria": {
+      "has_tnt": "2025-07-04 03:59:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-04 03:38:51 +0000"

@@ -7217,3 +7217,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 03:53:53.381] [Worker-Main-239/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_9 is being run through DFU (hash de9c8681e7568fa5732e97945ff32383065847c586e225a7714a3326214ada04), this will cause launch time delays
 [04Jul2025 03:53:53.388] [Worker-Main-239/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_6 is being run through DFU (hash 0e63a0dfb851aace375968f037fc9a1fd8a774aa0759314f37b465cec9a5cc53), this will cause launch time delays
 [04Jul2025 03:53:53.389] [Worker-Main-239/DEBUG] [ModernFix/]: Structure nova_structures:badlands_miner_outpost/badlands_miner_outpost_event_13 is being run through DFU (hash 4a340af591b15a91e7d563f65bed9772132a415254bba9feebaa1455fae8c198), this will cause launch time delays
+[04Jul2025 03:55:47.629] [Worker-Main-241/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_3b
+[04Jul2025 03:55:50.397] [Worker-Main-237/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[04Jul2025 03:56:39.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
+[04Jul2025 03:58:11.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 03:58:11.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 04:02:32.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzz
+[04Jul2025 04:03:11.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 04:03:11.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

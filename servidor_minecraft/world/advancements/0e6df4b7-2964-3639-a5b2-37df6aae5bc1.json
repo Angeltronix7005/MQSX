@@ -12487,6 +12487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-07-04 03:55:57 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/burnt/burnt/emerald_block": {
     "criteria": {
       "has_emerald_block": "2025-07-04 03:12:54 +0000"
