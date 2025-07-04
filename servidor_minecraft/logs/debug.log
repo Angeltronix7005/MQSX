@@ -7250,3 +7250,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 04:33:11.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2025 04:33:11.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jul2025 04:33:48.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor fell from a high place
+[04Jul2025 04:38:11.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 04:38:11.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 04:43:10.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jul2025 04:43:10.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[04Jul2025 04:43:11.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 04:43:11.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
