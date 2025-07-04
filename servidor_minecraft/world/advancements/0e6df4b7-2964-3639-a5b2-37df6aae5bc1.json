@@ -12418,6 +12418,12 @@
     },
     "done": true
   },
+  "ars_nouveau:familiar": {
+    "criteria": {
+      "familiar": "2025-07-04 01:53:34 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/red_concrete_powder_slab_from_red_concrete_powder_stonecutting": {
     "criteria": {
       "has_red_concrete_powder": "2025-07-04 00:59:09 +0000"
