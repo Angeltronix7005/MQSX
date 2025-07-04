@@ -12642,9 +12642,27 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_gray_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-07-04 03:38:51 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:apprentice_spell_book": {
     "criteria": {
       "has_apprentice_spell_book": "2025-07-04 03:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-07-04 03:38:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_gray_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-07-04 03:38:51 +0000"
     },
     "done": true
   },
@@ -12657,6 +12675,30 @@
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2025-07-04 03:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-04 03:38:51 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_gray_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-07-04 03:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-04 03:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-04 03:38:51 +0000"
     },
     "done": true
   },

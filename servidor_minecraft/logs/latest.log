@@ -97,3 +97,5 @@
 [04Jul2025 03:22:58.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [04Jul2025 03:23:16.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Unbreaking X]
 [04Jul2025 03:24:13.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Mage's Spell Book]
+[04Jul2025 03:42:49.964] [Worker-Main-226/INFO] [ModernFix/]: Instantiating Mojang DFU
+[04Jul2025 03:43:38.104] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 598 ms
