@@ -12382,15 +12382,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-04 03:12:54 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:ritual_brazier": {
     "criteria": {
       "has_ritual_brazier": "2025-07-04 01:40:16 +0000"
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/lapis_block_slab_from_lapis_block_stonecutting": {
+    "criteria": {
+      "has_lapis_block": "2025-07-04 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/lapis_block_slab": {
+    "criteria": {
+      "has_lapis_block": "2025-07-04 03:12:49 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/red_concrete_powder_wall": {
     "criteria": {
       "has_red_concrete_powder": "2025-07-04 00:59:09 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/emerald_block_wall_from_emerald_block_stonecutting": {
+    "criteria": {
+      "has_emerald_block": "2025-07-04 03:12:54 +0000"
     },
     "done": true
   },
@@ -12412,9 +12436,33 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/emerald_block_stairs_from_emerald_block_stonecutting": {
+    "criteria": {
+      "has_emerald_block": "2025-07-04 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/emerald_block_stairs": {
+    "criteria": {
+      "has_emerald_block": "2025-07-04 03:12:54 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/red_concrete_powder_stairs": {
     "criteria": {
       "has_red_concrete_powder": "2025-07-04 00:59:09 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/lapis_block_stairs": {
+    "criteria": {
+      "has_lapis_block": "2025-07-04 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/emerald_block": {
+    "criteria": {
+      "has_emerald_block": "2025-07-04 03:12:54 +0000"
     },
     "done": true
   },
@@ -12433,6 +12481,24 @@
   "l2archery:recipes/combat/obsidian_arrow": {
     "criteria": {
       "has_obsidian": "2025-07-04 02:47:15 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/lapis_ore": {
+    "criteria": {
+      "has_lapis_block": "2025-07-04 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/deepslate_lapis_ore": {
+    "criteria": {
+      "has_lapis_block": "2025-07-04 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/lapis_block_stairs_from_lapis_block_stonecutting": {
+    "criteria": {
+      "has_lapis_block": "2025-07-04 03:12:49 +0000"
     },
     "done": true
   },
@@ -12460,15 +12526,63 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/emerald_block_slab": {
+    "criteria": {
+      "has_emerald_block": "2025-07-04 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/lapis_block_wall_from_lapis_block_stonecutting": {
+    "criteria": {
+      "has_lapis_block": "2025-07-04 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/lapis_block_wall": {
+    "criteria": {
+      "has_lapis_block": "2025-07-04 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/emerald_ore": {
+    "criteria": {
+      "has_emerald_block": "2025-07-04 03:12:54 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/red_concrete_powder_slab": {
     "criteria": {
       "has_red_concrete_powder": "2025-07-04 00:59:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-07-04 03:12:49 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/red_concrete_powder_wall_from_red_concrete_powder_stonecutting": {
     "criteria": {
       "has_red_concrete_powder": "2025-07-04 00:59:09 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/emerald_block_slab_from_emerald_block_stonecutting": {
+    "criteria": {
+      "has_emerald_block": "2025-07-04 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/emerald_block_wall": {
+    "criteria": {
+      "has_emerald_block": "2025-07-04 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/deepslate_emerald_ore": {
+    "criteria": {
+      "has_emerald_block": "2025-07-04 03:12:54 +0000"
     },
     "done": true
   },
