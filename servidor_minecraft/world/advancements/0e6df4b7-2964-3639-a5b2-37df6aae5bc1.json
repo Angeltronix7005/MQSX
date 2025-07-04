@@ -12382,6 +12382,12 @@
     },
     "done": true
   },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-07-04 01:40:16 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/red_concrete_powder_wall": {
     "criteria": {
       "has_red_concrete_powder": "2025-07-04 00:59:09 +0000"
