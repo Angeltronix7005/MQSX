@@ -12642,9 +12642,21 @@
     },
     "done": true
   },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-07-04 03:24:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:wilden_tribute": {
     "criteria": {
       "has_wilden_tribute": "2025-07-04 03:19:04 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-07-04 03:23:16 +0000"
     },
     "done": true
   },
