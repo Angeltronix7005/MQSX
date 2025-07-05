@@ -414,3 +414,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 03:17:01.371] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
 [05Jul2025 03:20:46.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [05Jul2025 03:20:46.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[05Jul2025 03:24:33.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.35.18.255:49371] logged in with entity id 5032 at (-428.58113814809263, 80.0, -155.57123981376358)
+[05Jul2025 03:24:33.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[05Jul2025 03:24:33.776] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[05Jul2025 03:24:38.833] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[05Jul2025 03:24:44.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[05Jul2025 03:28:27.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Ferlein]
+[05Jul2025 03:29:51.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to JustRaptor]
+[05Jul2025 03:31:11.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has its soul burnt out by JustRaptor
+[05Jul2025 03:31:32.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[05Jul2025 03:31:32.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[05Jul2025 03:31:32.870] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[05Jul2025 03:31:32.871] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
