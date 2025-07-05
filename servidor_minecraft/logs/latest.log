@@ -416,3 +416,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 21:07:40.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set Ferlein's game mode to Creative Mode]
 [05Jul2025 21:07:48.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [05Jul2025 21:12:10.595] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.282 ms. 2805/2889 recipes are parallelized.
+[05Jul2025 21:17:02.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Made Ferlein a server operator]
+[05Jul2025 21:17:05.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Survival Mode]
+[05Jul2025 21:17:14.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferlein: Set own game mode to Creative Mode]
