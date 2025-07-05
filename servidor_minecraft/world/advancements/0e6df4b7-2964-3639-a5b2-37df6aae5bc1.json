@@ -12709,5 +12709,35 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/snow_block_stairs_from_snow_block_stonecutting": {
+    "criteria": {
+      "has_snow_block": "2025-07-05 01:58:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/snow_block_wall_from_snow_block_stonecutting": {
+    "criteria": {
+      "has_snow_block": "2025-07-05 01:58:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/snow_block_stairs": {
+    "criteria": {
+      "has_snow_block": "2025-07-05 01:58:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/snow_block_slab_from_snow_block_stonecutting": {
+    "criteria": {
+      "has_snow_block": "2025-07-05 01:58:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/snow_block_wall": {
+    "criteria": {
+      "has_snow_block": "2025-07-05 01:58:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
