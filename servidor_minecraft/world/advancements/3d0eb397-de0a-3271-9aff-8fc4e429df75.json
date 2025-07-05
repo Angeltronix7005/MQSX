@@ -10145,6 +10145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-03 23:48:30 +0000"
+    },
+    "done": true
+  },
   "l2archery:archery/sun_bow": {
     "criteria": {
       "0": "2025-07-04 03:12:41 +0000"
@@ -10154,12 +10160,6 @@
   "ars_nouveau:wilden_explosion": {
     "criteria": {
       "wilden_explosion": "2025-07-04 03:18:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-07-03 23:48:30 +0000"
     },
     "done": true
   },
