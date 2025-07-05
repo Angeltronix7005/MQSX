@@ -10207,5 +10207,35 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_wall": {
+    "criteria": {
+      "has_gold_block": "2025-07-05 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_wall_from_gold_block_stonecutting": {
+    "criteria": {
+      "has_gold_block": "2025-07-05 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_stairs": {
+    "criteria": {
+      "has_gold_block": "2025-07-05 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_slab_from_gold_block_stonecutting": {
+    "criteria": {
+      "has_gold_block": "2025-07-05 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_stairs_from_gold_block_stonecutting": {
+    "criteria": {
+      "has_gold_block": "2025-07-05 23:43:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
