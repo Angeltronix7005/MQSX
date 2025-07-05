@@ -12757,9 +12757,45 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_wall": {
+    "criteria": {
+      "has_diamond_block": "2025-07-05 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_slab": {
+    "criteria": {
+      "has_diamond_block": "2025-07-05 22:05:12 +0000"
+    },
+    "done": true
+  },
   "l2archery:recipes/combat/fire_arrow_lv2": {
     "criteria": {
       "has_ghast_tear": "2025-07-05 21:39:41 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_stairs_from_diamond_block_stonecutting": {
+    "criteria": {
+      "has_diamond_block": "2025-07-05 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_stairs": {
+    "criteria": {
+      "has_diamond_block": "2025-07-05 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_slab_from_diamond_block_stonecutting": {
+    "criteria": {
+      "has_diamond_block": "2025-07-05 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_wall_from_diamond_block_stonecutting": {
+    "criteria": {
+      "has_diamond_block": "2025-07-05 22:05:12 +0000"
     },
     "done": true
   },
