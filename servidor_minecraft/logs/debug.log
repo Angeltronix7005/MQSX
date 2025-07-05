@@ -6639,3 +6639,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 03:38:44.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> t
 [05Jul2025 03:39:58.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 03:39:58.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:44:58.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:44:58.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:46:18.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has made the advancement [Archmage Spell Book]
+[05Jul2025 03:46:44.896] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
+[05Jul2025 03:49:58.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 03:49:58.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 03:50:23.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=66, z=-31} BlockPos{x=145, y=65, z=-31}
+[05Jul2025 03:50:23.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=65, z=-32} BlockPos{x=145, y=65, z=-31}
+[05Jul2025 03:50:23.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=65, z=-33} BlockPos{x=145, y=65, z=-31}
+[05Jul2025 03:50:23.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=66, z=-33} BlockPos{x=145, y=65, z=-31}
+[05Jul2025 03:50:23.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=66, z=-33} BlockPos{x=145, y=65, z=-31}
+[05Jul2025 03:52:09.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> nn
+[05Jul2025 03:52:11.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> tp pls
+[05Jul2025 03:52:20.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=248, y=80, z=-133} BlockPos{x=210, y=82, z=-117}
+[05Jul2025 03:52:23.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
