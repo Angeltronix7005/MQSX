@@ -6702,3 +6702,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 04:43:27.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-259, y=71, z=-275} BlockPos{x=-260, y=69, z=-274}
 [05Jul2025 04:44:58.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 04:44:58.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:49:58.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:49:58.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:53:33.223] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/33119, l='ServerLevel[world]', x=-413.64, y=75.00, z=-287.50, removed=DISCARDED]
+[05Jul2025 04:53:55.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=102, z=-116} BlockPos{x=-98, y=33, z=-92}
+[05Jul2025 04:53:55.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=102, z=-116} BlockPos{x=-99, y=33, z=-92}
+[05Jul2025 04:53:57.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=102, z=-116} BlockPos{x=-101, y=33, z=-92}
+[05Jul2025 04:53:58.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=102, z=-116} BlockPos{x=-98, y=33, z=-91}
+[05Jul2025 04:54:00.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=102, z=-116} BlockPos{x=-95, y=33, z=-89}
+[05Jul2025 04:54:00.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=102, z=-116} BlockPos{x=-94, y=33, z=-90}
+[05Jul2025 04:54:01.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=102, z=-116} BlockPos{x=-94, y=33, z=-90}
+[05Jul2025 04:54:01.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=102, z=-116} BlockPos{x=-94, y=33, z=-90}
+[05Jul2025 04:54:16.112] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/33119, l='ServerLevel[world]', x=-413.64, y=75.00, z=-287.50, removed=DISCARDED]
+[05Jul2025 04:54:18.442] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/33119, l='ServerLevel[world]', x=-413.64, y=75.00, z=-287.50, removed=DISCARDED]
+[05Jul2025 04:54:18.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> a mimir?
