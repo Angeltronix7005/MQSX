@@ -12757,5 +12757,11 @@
     },
     "done": true
   },
+  "l2archery:recipes/combat/fire_arrow_lv2": {
+    "criteria": {
+      "has_ghast_tear": "2025-07-05 21:39:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

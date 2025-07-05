@@ -437,3 +437,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 21:32:16.304] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [05Jul2025 21:32:25.596] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
 [05Jul2025 21:32:27.655] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[05Jul2025 21:36:16.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-341, y=70, z=-276} BlockPos{x=-341, y=69, z=-276}
+[05Jul2025 21:36:43.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-340, y=70, z=-276} BlockPos{x=-340, y=69, z=-276}
+[05Jul2025 21:37:09.597] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[05Jul2025 21:38:02.423] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[05Jul2025 21:38:22.373] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[05Jul2025 21:41:45.022] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[05Jul2025 21:42:14.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ya vengo, voy con la gfa a comprar un helado
+[05Jul2025 21:42:22.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> y no es de lado
+[05Jul2025 21:42:25.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ay que xD
+[05Jul2025 21:42:47.541] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon

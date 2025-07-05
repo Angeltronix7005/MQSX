@@ -6120,3 +6120,64 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 21:32:16.304] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [05Jul2025 21:32:25.596] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
 [05Jul2025 21:32:27.655] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[05Jul2025 21:35:00.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 21:35:00.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 21:36:16.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-341, y=70, z=-276} BlockPos{x=-341, y=69, z=-276}
+[05Jul2025 21:36:43.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-340, y=70, z=-276} BlockPos{x=-340, y=69, z=-276}
+[05Jul2025 21:37:09.597] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[05Jul2025 21:37:51.133] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_heart
+[05Jul2025 21:37:51.145] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sa
+[05Jul2025 21:37:51.146] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sb
+[05Jul2025 21:37:51.151] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_a
+[05Jul2025 21:37:51.152] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sra
+[05Jul2025 21:37:51.154] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_c
+[05Jul2025 21:37:51.159] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sb
+[05Jul2025 21:37:51.164] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_srb
+[05Jul2025 21:37:51.190] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_4
+[05Jul2025 21:37:51.209] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_2
+[05Jul2025 21:37:51.225] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_1
+[05Jul2025 21:37:51.231] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_5
+[05Jul2025 21:37:51.237] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_4
+[05Jul2025 21:37:51.241] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_3
+[05Jul2025 21:37:51.247] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_1
+[05Jul2025 21:37:51.252] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_2
+[05Jul2025 21:37:51.262] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_2
+[05Jul2025 21:37:51.269] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_5
+[05Jul2025 21:37:51.272] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_1
+[05Jul2025 21:37:51.280] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_3
+[05Jul2025 21:37:51.295] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_3
+[05Jul2025 21:37:51.300] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_6
+[05Jul2025 21:37:51.307] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_2
+[05Jul2025 21:37:51.311] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_3
+[05Jul2025 21:37:51.317] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_4
+[05Jul2025 21:37:51.324] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_1
+[05Jul2025 21:37:51.326] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_hallway_lock
+[05Jul2025 21:37:51.338] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_b
+[05Jul2025 21:37:51.342] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_lb
+[05Jul2025 21:37:51.346] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_src
+[05Jul2025 21:37:51.350] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_c
+[05Jul2025 21:37:51.354] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_lc
+[05Jul2025 21:37:51.356] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sa
+[05Jul2025 21:37:51.361] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_a
+[05Jul2025 21:37:51.362] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_srb
+[05Jul2025 21:37:51.365] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_srb
+[05Jul2025 21:37:51.366] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_b
+[05Jul2025 21:37:51.367] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sc
+[05Jul2025 21:37:51.368] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sra
+[05Jul2025 21:37:51.369] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_src
+[05Jul2025 21:37:51.370] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_b
+[05Jul2025 21:37:51.371] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sc
+[05Jul2025 21:37:51.372] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_a
+[05Jul2025 21:37:51.373] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_c
+[05Jul2025 21:37:51.374] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sa
+[05Jul2025 21:37:51.375] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sra
+[05Jul2025 21:38:02.423] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[05Jul2025 21:38:12.527] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_3
+[05Jul2025 21:38:22.373] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[05Jul2025 21:40:00.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 21:40:00.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 21:41:45.022] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[05Jul2025 21:42:14.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ya vengo, voy con la gfa a comprar un helado
+[05Jul2025 21:42:22.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> y no es de lado
+[05Jul2025 21:42:25.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ay que xD
+[05Jul2025 21:42:47.541] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
