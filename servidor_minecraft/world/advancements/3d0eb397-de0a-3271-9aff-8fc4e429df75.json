@@ -10163,5 +10163,11 @@
     },
     "done": true
   },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-07-05 01:56:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
