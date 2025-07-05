@@ -12739,5 +12739,17 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/nether_star": {
+    "criteria": {
+      "has_nether_star": "2025-07-05 03:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-07-05 03:33:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
