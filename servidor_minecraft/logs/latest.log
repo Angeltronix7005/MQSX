@@ -451,3 +451,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 21:44:54.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ll<--[HERE]
 [05Jul2025 21:45:55.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> t
 [05Jul2025 21:48:49.040] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[05Jul2025 21:58:29.441] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[05Jul2025 21:58:43.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-61, y=71, z=-126} BlockPos{x=-61, y=69, z=-126}
+[05Jul2025 22:00:33.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-90, y=72, z=-117} BlockPos{x=-90, y=72, z=-118}
+[05Jul2025 22:00:44.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=79, z=-117} BlockPos{x=-91, y=78, z=-117}
+[05Jul2025 22:00:46.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-90, y=79, z=-118} BlockPos{x=-90, y=78, z=-118}
+[05Jul2025 22:00:47.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-90, y=77, z=-118} BlockPos{x=-91, y=78, z=-119}
+[05Jul2025 22:03:30.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=75, z=-128} BlockPos{x=-85, y=77, z=-126}
+[05Jul2025 22:03:31.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-85, y=75, z=-126} BlockPos{x=-84, y=76, z=-127}
