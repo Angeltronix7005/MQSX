@@ -447,3 +447,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 02:01:43.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Creative Mode]
 [05Jul2025 02:02:00.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
 [05Jul2025 02:04:38.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved wrongly!
+[05Jul2025 02:19:24.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=192, y=79, z=-198} BlockPos{x=193, y=78, z=-196}
+[05Jul2025 02:19:24.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=192, y=79, z=-198} BlockPos{x=193, y=78, z=-195}
+[05Jul2025 02:19:25.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=78, z=-195} BlockPos{x=192, y=79, z=-194}
+[05Jul2025 02:19:25.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=80, z=-191} BlockPos{x=193, y=78, z=-192}
+[05Jul2025 02:19:25.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=80, z=-190} BlockPos{x=193, y=78, z=-192}
+[05Jul2025 02:19:40.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=188, y=78, z=-202} BlockPos{x=188, y=76, z=-202}
+[05Jul2025 02:19:40.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=188, y=78, z=-202} BlockPos{x=188, y=76, z=-202}
+[05Jul2025 02:19:40.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=188, y=78, z=-202} BlockPos{x=188, y=76, z=-202}
+[05Jul2025 02:19:41.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=77, z=-202} BlockPos{x=189, y=77, z=-201}
+[05Jul2025 02:19:41.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=77, z=-202} BlockPos{x=188, y=77, z=-201}
+[05Jul2025 02:19:41.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=77, z=-202} BlockPos{x=188, y=77, z=-201}
+[05Jul2025 02:19:44.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=78, z=-203} BlockPos{x=191, y=76, z=-202}
+[05Jul2025 02:19:44.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=78, z=-203} BlockPos{x=192, y=76, z=-202}
+[05Jul2025 02:19:44.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=78, z=-203} BlockPos{x=192, y=78, z=-203}
+[05Jul2025 02:19:44.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=78, z=-203} BlockPos{x=191, y=78, z=-203}
+[05Jul2025 02:19:45.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=78, z=-203} BlockPos{x=192, y=76, z=-203}
+[05Jul2025 02:19:45.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=78, z=-203} BlockPos{x=192, y=76, z=-203}
+[05Jul2025 02:19:45.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=78, z=-203} BlockPos{x=193, y=76, z=-202}
+[05Jul2025 02:19:56.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzz
+[05Jul2025 02:19:57.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzz
+[05Jul2025 02:19:59.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzz
+[05Jul2025 02:20:00.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzz
+[05Jul2025 02:20:01.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzzzz
+[05Jul2025 02:20:02.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzz
+[05Jul2025 02:20:03.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzz
+[05Jul2025 02:20:04.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzz
+[05Jul2025 02:20:05.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzz
+[05Jul2025 02:20:06.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzz
+[05Jul2025 02:20:07.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzzz
+[05Jul2025 02:20:08.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzzz
+[05Jul2025 02:20:09.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzzz
+[05Jul2025 02:20:10.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzzzzz
+[05Jul2025 02:20:12.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzz
+[05Jul2025 02:20:13.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzz
+[05Jul2025 02:20:14.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> zzzzzzzzzz
