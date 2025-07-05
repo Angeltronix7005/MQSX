@@ -431,3 +431,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 01:37:29.909] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
 [05Jul2025 01:37:30.667] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
 [05Jul2025 01:39:04.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to JustRaptor]
+[05Jul2025 01:42:07.208] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 880.2 μs. 1059/1059 recipes are parallelized.
+[05Jul2025 01:43:41.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[05Jul2025 01:43:41.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[05Jul2025 01:43:41.253] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[05Jul2025 01:43:41.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[05Jul2025 01:43:51.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.35.18.255:49775] logged in with entity id 22169 at (-439.8639740119989, 76.0, -161.22005169615383)
+[05Jul2025 01:43:51.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[05Jul2025 01:43:51.860] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[05Jul2025 01:43:51.969] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[05Jul2025 01:51:14.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved wrongly!
