@@ -12745,15 +12745,15 @@
     },
     "done": true
   },
-  "ars_nouveau:archmage_spell_book": {
-    "criteria": {
-      "has_archmage_spell_book": "2025-07-05 03:46:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-07-05 03:33:33 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:archmage_spell_book": {
+    "criteria": {
+      "has_archmage_spell_book": "2025-07-05 03:46:18 +0000"
     },
     "done": true
   },
