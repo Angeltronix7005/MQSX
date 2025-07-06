@@ -10207,6 +10207,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/orange_terracotta_wall": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-06 00:20:38 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_wall": {
     "criteria": {
       "has_gold_block": "2025-07-05 23:43:30 +0000"
@@ -10219,9 +10225,33 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/orange_terracotta_slab": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-06 00:20:38 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/orange_terracotta_wall_from_orange_terracotta_stonecutting": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-06 00:20:38 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_stairs": {
     "criteria": {
       "has_gold_block": "2025-07-05 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/orange_terracotta_stairs_from_orange_terracotta_stonecutting": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-06 00:20:38 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/orange_terracotta_stairs": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-06 00:20:38 +0000"
     },
     "done": true
   },
@@ -10234,6 +10264,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/gold_block_stairs_from_gold_block_stonecutting": {
     "criteria": {
       "has_gold_block": "2025-07-05 23:43:30 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/orange_terracotta_slab_from_orange_terracotta_stonecutting": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-06 00:20:38 +0000"
     },
     "done": true
   },
