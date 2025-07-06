@@ -12854,5 +12854,11 @@
     },
     "done": true
   },
+  "ars_nouveau:wixie_charm": {
+    "criteria": {
+      "has_wixie_charm": "2025-07-06 04:03:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
