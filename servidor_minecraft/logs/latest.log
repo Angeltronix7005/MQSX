@@ -3,3 +3,9 @@
 [06Jul2025 00:27:36.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> voy a salir al parque a charlar un rato con el gfe
 [06Jul2025 00:28:16.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [06Jul2025 00:28:16.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[06Jul2025 00:40:09.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
+[06Jul2025 00:41:14.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has completed the challenge [Return to Sender]
+[06Jul2025 00:42:48.201] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[06Jul2025 00:44:28.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[06Jul2025 00:45:52.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Jul2025 00:45:52.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]

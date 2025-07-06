@@ -6828,3 +6828,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jul2025 00:30:00.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jul2025 00:35:00.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2025 00:35:00.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:38:49.686] [Worker-Main-197/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[06Jul2025 00:40:00.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:40:00.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:40:09.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
+[06Jul2025 00:41:14.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein has completed the challenge [Return to Sender]
+[06Jul2025 00:42:48.201] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[06Jul2025 00:43:44.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_small
+[06Jul2025 00:43:44.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_2
+[06Jul2025 00:43:44.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_3
+[06Jul2025 00:43:44.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_1
+[06Jul2025 00:43:44.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_small
+[06Jul2025 00:43:44.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_big
+[06Jul2025 00:44:28.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[06Jul2025 00:45:00.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 00:45:00.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 00:45:52.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Jul2025 00:45:52.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
