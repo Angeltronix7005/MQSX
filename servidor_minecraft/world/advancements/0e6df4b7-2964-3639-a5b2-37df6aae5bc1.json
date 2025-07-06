@@ -12758,9 +12758,51 @@
     },
     "done": true
   },
+  "l2archery:recipes/combat/fire_arrow_lv2": {
+    "criteria": {
+      "has_ghast_tear": "2025-07-05 21:39:41 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_wall": {
     "criteria": {
       "has_diamond_block": "2025-07-05 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_slab": {
+    "criteria": {
+      "has_diamond_block": "2025-07-05 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_stairs_from_diamond_block_stonecutting": {
+    "criteria": {
+      "has_diamond_block": "2025-07-05 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_stairs": {
+    "criteria": {
+      "has_diamond_block": "2025-07-05 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_slab_from_diamond_block_stonecutting": {
+    "criteria": {
+      "has_diamond_block": "2025-07-05 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_wall_from_diamond_block_stonecutting": {
+    "criteria": {
+      "has_diamond_block": "2025-07-05 22:05:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-07-06 00:41:14 +0000"
     },
     "done": true
   },
@@ -12782,39 +12824,15 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_slab": {
-    "criteria": {
-      "has_diamond_block": "2025-07-05 22:05:12 +0000"
-    },
-    "done": true
-  },
   "l2archery:recipes/combat/fire_arrow_lv1": {
     "criteria": {
       "has_soul_soil": "2025-07-06 01:19:50 +0000"
     },
     "done": true
   },
-  "l2archery:recipes/combat/fire_arrow_lv2": {
-    "criteria": {
-      "has_ghast_tear": "2025-07-05 21:39:41 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_stairs_from_diamond_block_stonecutting": {
-    "criteria": {
-      "has_diamond_block": "2025-07-05 22:05:12 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/soul_soil_wall": {
     "criteria": {
       "has_soul_soil": "2025-07-06 01:19:50 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_stairs": {
-    "criteria": {
-      "has_diamond_block": "2025-07-05 22:05:12 +0000"
     },
     "done": true
   },
@@ -12827,24 +12845,6 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/soul_soil_slab": {
     "criteria": {
       "has_soul_soil": "2025-07-06 01:19:50 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_slab_from_diamond_block_stonecutting": {
-    "criteria": {
-      "has_diamond_block": "2025-07-05 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/diamond_block_wall_from_diamond_block_stonecutting": {
-    "criteria": {
-      "has_diamond_block": "2025-07-05 22:05:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2025-07-06 00:41:14 +0000"
     },
     "done": true
   },
