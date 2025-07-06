@@ -15,3 +15,16 @@
 [06Jul2025 01:10:58.606] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
 [06Jul2025 01:11:17.101] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
 [06Jul2025 01:14:27.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=498, y=82, z=-242} BlockPos{x=494, y=81, z=-239}
+[06Jul2025 01:19:44.447] [Worker-Main-254/INFO] [ModernFix/]: Instantiating Mojang DFU
+[06Jul2025 01:21:03.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[06Jul2025 01:25:21.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[06Jul2025 01:25:21.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[06Jul2025 01:25:21.761] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[06Jul2025 01:25:21.761] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[06Jul2025 01:25:21.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Kicked Ferlein: Kicked by an operator]
+[06Jul2025 01:25:21.791] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jul2025 01:25:35.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferlein[/127.59.10.170:41873] logged in with entity id 208237 at (-180.83735378224014, 64.0, -141.02975914437346)
+[06Jul2025 01:25:35.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein joined the game
+[06Jul2025 01:25:35.379] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/89, l='ServerLevel[world]', x=-109.90, y=45.17, z=-122.57, removed=DISCARDED]
+[06Jul2025 01:25:35.420] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[06Jul2025 01:25:35.609] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was loaded
