@@ -38,3 +38,8 @@
 [06Jul2025 01:33:54.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
 [06Jul2025 01:33:56.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
 [06Jul2025 01:34:14.821] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 48.95 μs. 0/148 recipes are parallelized.
+[06Jul2025 01:50:51.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-253, y=71, z=-275} BlockPos{x=-252, y=69, z=-276}
+[06Jul2025 01:50:51.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-253, y=71, z=-275} BlockPos{x=-252, y=69, z=-276}
+[06Jul2025 01:54:28.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=71, z=-248} BlockPos{x=-257, y=69, z=-247}
+[06Jul2025 01:54:40.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-252, y=71, z=-248} BlockPos{x=-252, y=69, z=-248}
+[06Jul2025 01:54:40.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-252, y=71, z=-248} BlockPos{x=-252, y=69, z=-248}
