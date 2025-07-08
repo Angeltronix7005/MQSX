@@ -553,3 +553,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 04:38:55.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ve yo pensé que iniciaba la invasión
 [08Jul2025 04:39:16.152] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
 [08Jul2025 04:39:30.200] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
+[08Jul2025 04:39:57.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> quedamos ice frio hielo
+[08Jul2025 04:40:16.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Kicked JustRaptor: Kicked by an operator]
+[08Jul2025 04:40:16.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Kicked by an operator
+[08Jul2025 04:40:16.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[08Jul2025 04:40:16.842] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[08Jul2025 04:40:16.843] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[08Jul2025 04:40:25.947] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@53c4cb21[id=<null>,name=JustRaptor,properties={},legacy=false] (/127.35.18.255:45383) lost connection: Disconnected
+[08Jul2025 04:40:35.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JustRaptor[/127.35.18.255:40547] logged in with entity id 172565 at (-194.04976866618267, 99.41999998688698, -190.870338701797)
+[08Jul2025 04:40:35.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
+[08Jul2025 04:40:35.806] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
+[08Jul2025 04:40:35.856] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[08Jul2025 04:40:35.906] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[08Jul2025 04:40:39.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> XD
+[08Jul2025 04:40:49.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> c murieron?
+[08Jul2025 04:41:40.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> los recogieron?
+[08Jul2025 04:41:45.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> sip
+[08Jul2025 04:41:47.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> le paso
+[08Jul2025 04:41:48.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ...
+[08Jul2025 04:42:06.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> y porque hay lozas acá
+[08Jul2025 04:42:16.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pracicidad
+[08Jul2025 04:42:20.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> practicidad
+[08Jul2025 04:42:21.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> xd
+[08Jul2025 04:42:27.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> pero, por acá no pasa nadie
+[08Jul2025 04:42:46.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> ahora falta una cuerda xd
+[08Jul2025 04:43:14.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> mire esto
+[08Jul2025 04:43:28.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> eso no
+[08Jul2025 04:43:44.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> tiene patas?
+[08Jul2025 04:43:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> xd
+[08Jul2025 04:44:12.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JustRaptor> regresalo
+[08Jul2025 04:44:57.244] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
+[08Jul2025 04:46:38.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> ??
+[08Jul2025 04:46:48.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> te pase un libro encantado
+[08Jul2025 04:46:49.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> pa ti
+[08Jul2025 04:48:31.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-80, y=75, z=-323} BlockPos{x=-82, y=75, z=-323}
