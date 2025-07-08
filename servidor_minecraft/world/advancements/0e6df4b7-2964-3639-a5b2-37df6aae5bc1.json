@@ -13004,5 +13004,77 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-08 20:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-08 20:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-08 20:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-08 20:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-08 20:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-08 20:24:28 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_wood_slab_from_cherry_wood_stonecutting": {
+    "criteria": {
+      "has_cherry_wood": "2025-07-08 21:26:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_wood_wall": {
+    "criteria": {
+      "has_cherry_wood": "2025-07-08 21:26:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_wood_stairs_from_cherry_wood_stonecutting": {
+    "criteria": {
+      "has_cherry_wood": "2025-07-08 21:26:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_wood_slab": {
+    "criteria": {
+      "has_cherry_wood": "2025-07-08 21:26:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_wood_stairs": {
+    "criteria": {
+      "has_cherry_wood": "2025-07-08 21:26:35 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_wood_wall_from_cherry_wood_stonecutting": {
+    "criteria": {
+      "has_cherry_wood": "2025-07-08 21:26:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
