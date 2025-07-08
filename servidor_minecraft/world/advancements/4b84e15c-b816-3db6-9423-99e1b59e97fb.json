@@ -12921,6 +12921,18 @@
     },
     "done": true
   },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-07-08 21:41:43 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:whirlisprig_charm": {
+    "criteria": {
+      "has_whirlisprig_charm": "2025-07-08 21:46:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"

@@ -425,3 +425,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 21:41:43.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Magebloom]
 [08Jul2025 21:43:28.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [08Jul2025 21:43:28.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[08Jul2025 21:46:20.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Whirli]
