@@ -427,3 +427,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 21:43:28.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [08Jul2025 21:46:20.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Whirli]
 [08Jul2025 22:00:02.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Not a Fluid!]
+[08Jul2025 22:08:30.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-343, y=78, z=-279} BlockPos{x=-347, y=70, z=-257}
+[08Jul2025 22:08:30.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-343, y=78, z=-279} BlockPos{x=-347, y=69, z=-257}
