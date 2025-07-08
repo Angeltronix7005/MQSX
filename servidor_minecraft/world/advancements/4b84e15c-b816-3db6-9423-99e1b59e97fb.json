@@ -12903,6 +12903,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_slab": {
+    "criteria": {
+      "has_calcite": "2025-07-08 22:14:21 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_wood_slab_from_cherry_wood_stonecutting": {
     "criteria": {
       "has_cherry_wood": "2025-07-08 21:26:02 +0000"
@@ -12930,6 +12936,18 @@
   "ars_nouveau:whirlisprig_charm": {
     "criteria": {
       "has_whirlisprig_charm": "2025-07-08 21:46:20 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-07-08 22:14:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-07-08 22:13:05 +0000"
     },
     "done": true
   },
@@ -12963,6 +12981,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_wall": {
+    "criteria": {
+      "has_calcite": "2025-07-08 22:14:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:drygmy_charm": {
     "criteria": {
       "has_drygmy_charm": "2025-07-08 21:27:50 +0000"
@@ -12972,6 +12996,12 @@
   "ars_nouveau:familiar": {
     "criteria": {
       "familiar": "2025-07-08 21:33:17 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-07-08 22:14:21 +0000"
     },
     "done": true
   },
@@ -12993,6 +13023,12 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_stairs": {
+    "criteria": {
+      "has_calcite": "2025-07-08 22:14:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"
@@ -13002,6 +13038,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_wood_wall_from_cherry_wood_stonecutting": {
     "criteria": {
       "has_cherry_wood": "2025-07-08 21:26:02 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-07-08 22:14:21 +0000"
     },
     "done": true
   },
