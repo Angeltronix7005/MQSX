@@ -34,6 +34,7 @@
       "minecraft:snowy_taiga": "2025-04-20 06:02:29 +0000",
       "minecraft:grove": "2025-04-23 03:52:15 +0000",
       "minecraft:swamp": "2025-05-03 02:27:54 +0000",
+      "minecraft:jagged_peaks": "2025-07-08 18:42:27 +0000",
       "minecraft:cold_ocean": "2025-04-16 03:16:48 +0000",
       "minecraft:forest": "2025-04-16 03:19:56 +0000",
       "minecraft:lush_caves": "2025-05-03 01:13:33 +0000",
@@ -48,6 +49,7 @@
       "minecraft:windswept_savanna": "2025-04-23 04:06:14 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-23 04:22:35 +0000",
       "minecraft:flower_forest": "2025-04-19 04:16:20 +0000",
+      "minecraft:frozen_peaks": "2025-07-08 18:42:10 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-19 04:25:25 +0000",
       "minecraft:deep_dark": "2025-05-30 05:27:41 +0000",
       "minecraft:meadow": "2025-04-19 04:12:56 +0000",
@@ -12772,6 +12774,132 @@
   "ars_nouveau:poof_mob": {
     "criteria": {
       "poof_mob": "2025-07-08 17:47:13 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gray_wool_wall": {
+    "criteria": {
+      "has_gray_wool": "2025-07-08 18:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-08 18:46:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gray_wool_stairs": {
+    "criteria": {
+      "has_gray_wool": "2025-07-08 18:46:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gray_wool_stairs_from_gray_wool_stonecutting": {
+    "criteria": {
+      "has_gray_wool": "2025-07-08 18:46:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bookshelf_stairs": {
+    "criteria": {
+      "has_bookshelf": "2025-07-08 19:13:31 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gray_wool_slab_from_gray_wool_stonecutting": {
+    "criteria": {
+      "has_gray_wool": "2025-07-08 18:46:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/hay_block_wall": {
+    "criteria": {
+      "has_hay_block": "2025-07-08 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/hay_block_stairs": {
+    "criteria": {
+      "has_hay_block": "2025-07-08 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-08 18:46:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/hay_block_wall_from_hay_block_stonecutting": {
+    "criteria": {
+      "has_hay_block": "2025-07-08 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/hay_block_stairs_from_hay_block_stonecutting": {
+    "criteria": {
+      "has_hay_block": "2025-07-08 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bookshelf_slab": {
+    "criteria": {
+      "has_bookshelf": "2025-07-08 19:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-08 18:46:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bookshelf_wall": {
+    "criteria": {
+      "has_bookshelf": "2025-07-08 19:13:31 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bookshelf_slab_from_bookshelf_stonecutting": {
+    "criteria": {
+      "has_bookshelf": "2025-07-08 19:13:31 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/hay_block_slab": {
+    "criteria": {
+      "has_hay_block": "2025-07-08 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bookshelf_stairs_from_bookshelf_stonecutting": {
+    "criteria": {
+      "has_bookshelf": "2025-07-08 19:13:31 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gray_wool_wall_from_gray_wool_stonecutting": {
+    "criteria": {
+      "has_gray_wool": "2025-07-08 18:46:56 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/hay_block_slab_from_hay_block_stonecutting": {
+    "criteria": {
+      "has_hay_block": "2025-07-08 19:08:22 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/bookshelf_wall_from_bookshelf_stonecutting": {
+    "criteria": {
+      "has_bookshelf": "2025-07-08 19:13:31 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/gray_wool_slab": {
+    "criteria": {
+      "has_gray_wool": "2025-07-08 18:46:56 +0000"
     },
     "done": true
   },

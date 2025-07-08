@@ -12860,27 +12860,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_wall": {
-    "criteria": {
-      "has_amethyst_block": "2025-07-08 01:27:10 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_slab_from_stripped_dark_oak_log_stonecutting": {
     "criteria": {
       "has_stripped_dark_oak_log": "2025-07-08 01:23:36 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_stairs": {
-    "criteria": {
-      "has_smooth_basalt": "2025-07-08 01:28:29 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_slab": {
-    "criteria": {
-      "has_calcite": "2025-07-08 01:27:24 +0000"
     },
     "done": true
   },
@@ -12890,63 +12872,9 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_wall_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-07-08 01:27:10 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_wall": {
-    "criteria": {
-      "has_smooth_basalt": "2025-07-08 01:28:29 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_wall_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-07-08 01:27:24 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_stairs_from_stripped_dark_oak_log_stonecutting": {
     "criteria": {
       "has_stripped_dark_oak_log": "2025-07-08 01:23:36 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_wall": {
-    "criteria": {
-      "has_calcite": "2025-07-08 01:27:24 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_slab_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-07-08 01:27:10 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_stairs_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-07-08 01:27:24 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_slab_from_smooth_basalt_stonecutting": {
-    "criteria": {
-      "has_smooth_basalt": "2025-07-08 01:28:29 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_stairs_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-07-08 01:27:10 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_slab": {
-    "criteria": {
-      "has_smooth_basalt": "2025-07-08 01:28:29 +0000"
     },
     "done": true
   },
@@ -12956,15 +12884,45 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_stairs": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_wall_from_stripped_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-07-08 01:23:36 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_slab": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-07-08 01:23:36 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_wall": {
     "criteria": {
       "has_amethyst_block": "2025-07-08 01:27:10 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_wall_from_stripped_dark_oak_log_stonecutting": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_wall_from_amethyst_block_stonecutting": {
     "criteria": {
-      "has_stripped_dark_oak_log": "2025-07-08 01:23:36 +0000"
+      "has_amethyst_block": "2025-07-08 01:27:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-08 01:27:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-08 01:27:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-08 01:27:10 +0000"
     },
     "done": true
   },
@@ -12974,15 +12932,27 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_wall_from_smooth_basalt_stonecutting": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_slab": {
     "criteria": {
-      "has_smooth_basalt": "2025-07-08 01:28:29 +0000"
+      "has_calcite": "2025-07-08 01:27:24 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_stairs_from_smooth_basalt_stonecutting": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_wall_from_calcite_stonecutting": {
     "criteria": {
-      "has_smooth_basalt": "2025-07-08 01:28:29 +0000"
+      "has_calcite": "2025-07-08 01:27:24 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_wall": {
+    "criteria": {
+      "has_calcite": "2025-07-08 01:27:24 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-07-08 01:27:24 +0000"
     },
     "done": true
   },
@@ -12998,9 +12968,39 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_slab": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_stairs": {
     "criteria": {
-      "has_stripped_dark_oak_log": "2025-07-08 01:23:36 +0000"
+      "has_smooth_basalt": "2025-07-08 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_wall": {
+    "criteria": {
+      "has_smooth_basalt": "2025-07-08 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2025-07-08 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_slab": {
+    "criteria": {
+      "has_smooth_basalt": "2025-07-08 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2025-07-08 01:28:29 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2025-07-08 01:28:29 +0000"
     },
     "done": true
   },
