@@ -423,3 +423,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 01:01:54.651] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
 [08Jul2025 01:04:04.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-261, y=77, z=-257} BlockPos{x=-486, y=78, z=-254}
 [08Jul2025 01:04:19.951] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
+[08Jul2025 01:16:35.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-387, y=70, z=-269} BlockPos{x=-387, y=69, z=-269}
+[08Jul2025 01:16:38.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-387, y=66, z=-269} BlockPos{x=-388, y=67, z=-269}
