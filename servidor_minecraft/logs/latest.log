@@ -438,3 +438,64 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 01:59:21.556] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
 [08Jul2025 02:06:50.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
 [08Jul2025 02:16:38.058] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
+[08Jul2025 02:22:07.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:07.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -8.873925948631182,19.51266805198901,1.914997479018247
+[08Jul2025 02:22:07.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -8.851201774060542,19.139536395081507,1.8777051158274745
+[08Jul2025 02:22:07.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -7.7058821049593575,16.419735624042715,1.6198690343587572
+[08Jul2025 02:22:08.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:08.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -12.493797822116392,22.317770613096414,2.337223615909764
+[08Jul2025 02:22:08.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved too quickly! -9.942981845827063,16.98540783877212,1.7955001653950688
+[08Jul2025 02:22:10.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:10.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:11.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:12.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:12.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:12.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:12.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:15.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:16.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:16.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:16.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:16.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:17.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:17.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:17.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:17.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:37.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:37.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:37.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:38.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:38.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:38.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:22:38.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[08Jul2025 02:23:06.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:07.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:07.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:07.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:07.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:07.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:09.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:09.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:09.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:10.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:10.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:10.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:15.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:16.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:16.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:17.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:22.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:28.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:28.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:28.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:28.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:29.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:29.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:29.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:29.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:29.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:30.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:38.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:23:38.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 moved wrongly!
+[08Jul2025 02:26:18.785] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
+[08Jul2025 02:26:45.289] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
