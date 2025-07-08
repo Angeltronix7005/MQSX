@@ -513,3 +513,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 03:18:17.738] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
 [08Jul2025 03:18:22.588] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
 [08Jul2025 03:18:31.438] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
+[08Jul2025 03:29:34.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 03:29:34.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[08Jul2025 03:38:47.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=218, y=75, z=-279} BlockPos{x=218, y=74, z=-279}
+[08Jul2025 03:39:37.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=199, y=84, z=-312} BlockPos{x=199, y=83, z=-312}
+[08Jul2025 03:41:47.015] [Worker-Main-183/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[08Jul2025 03:41:53.165] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
+[08Jul2025 03:43:00.274] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
+[08Jul2025 03:45:17.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein fell from a high place
+[08Jul2025 03:45:38.236] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
+[08Jul2025 03:48:43.807] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
