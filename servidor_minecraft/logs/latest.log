@@ -523,3 +523,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 03:45:17.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein fell from a high place
 [08Jul2025 03:45:38.236] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
 [08Jul2025 03:48:43.807] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/41, l='ServerLevel[world]', x=-152.58, y=28.12, z=-105.42, removed=DISCARDED]
+[08Jul2025 03:52:17.617] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 735.7 μs. 1059/1059 recipes are parallelized.
