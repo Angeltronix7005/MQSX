@@ -422,3 +422,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jul2025 21:28:20.092] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.621 ms. 2812/2896 recipes are parallelized.
 [08Jul2025 21:29:50.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Ulrike'/33, l='ServerLevel[world]', x=-345.52, y=79.00, z=-280.40] died: Ulrike fell from a high place
 [08Jul2025 21:33:17.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has reached the goal [This Seems Familiar...]
+[08Jul2025 21:41:43.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Magebloom]
+[08Jul2025 21:43:28.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 21:43:28.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
