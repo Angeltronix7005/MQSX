@@ -2495,6 +2495,7 @@
       "onion": "2025-05-02 05:44:04 +0000",
       "tomato": "2025-04-20 04:55:09 +0000",
       "rice": "2025-04-20 05:10:57 +0000",
+      "kelp": "2025-07-08 22:38:04 +0000",
       "beetroot": "2025-04-18 03:28:00 +0000",
       "cocoa": "2025-04-27 06:08:38 +0000",
       "brown_mushroom": "2025-05-19 04:04:59 +0000",
@@ -12903,63 +12904,15 @@
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_slab": {
-    "criteria": {
-      "has_calcite": "2025-07-08 22:14:21 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_wood_slab_from_cherry_wood_stonecutting": {
     "criteria": {
       "has_cherry_wood": "2025-07-08 21:26:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_wood_wall": {
     "criteria": {
       "has_cherry_wood": "2025-07-08 21:26:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:magebloom_crop": {
-    "criteria": {
-      "has_magebloom_crop": "2025-07-08 21:41:43 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:whirlisprig_charm": {
-    "criteria": {
-      "has_whirlisprig_charm": "2025-07-08 21:46:20 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_wall_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-07-08 22:14:21 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
-    "criteria": {
-      "has_stack_upgrade_tier_2": "2025-07-08 22:13:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"
     },
     "done": true
   },
@@ -12975,63 +12928,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_wall": {
-    "criteria": {
-      "has_calcite": "2025-07-08 22:14:21 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:drygmy_charm": {
-    "criteria": {
-      "has_drygmy_charm": "2025-07-08 21:27:50 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:familiar": {
-    "criteria": {
-      "familiar": "2025-07-08 21:33:17 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_stairs_from_calcite_stonecutting": {
-    "criteria": {
-      "has_calcite": "2025-07-08 22:14:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/cherry_wood_stairs": {
     "criteria": {
       "has_cherry_wood": "2025-07-08 21:26:02 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:source_jar": {
-    "criteria": {
-      "has_source_jar": "2025-07-08 22:00:02 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_stairs": {
-    "criteria": {
-      "has_calcite": "2025-07-08 22:14:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"
     },
     "done": true
   },
@@ -13041,9 +12940,165 @@
     },
     "done": true
   },
+  "ars_nouveau:drygmy_charm": {
+    "criteria": {
+      "has_drygmy_charm": "2025-07-08 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-08 21:32:39 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:familiar": {
+    "criteria": {
+      "familiar": "2025-07-08 21:33:17 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-07-08 21:41:43 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:whirlisprig_charm": {
+    "criteria": {
+      "has_whirlisprig_charm": "2025-07-08 21:46:20 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-07-08 22:00:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-07-08 22:13:05 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_slab": {
+    "criteria": {
+      "has_calcite": "2025-07-08 22:14:21 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-07-08 22:14:21 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_wall": {
+    "criteria": {
+      "has_calcite": "2025-07-08 22:14:21 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-07-08 22:14:21 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_stairs": {
+    "criteria": {
+      "has_calcite": "2025-07-08 22:14:21 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-07-08 22:14:21 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-07-08 22:22:07 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_stairs": {
+    "criteria": {
+      "has_smooth_basalt": "2025-07-08 22:37:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_wall": {
+    "criteria": {
+      "has_smooth_basalt": "2025-07-08 22:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-07-08 23:04:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2025-07-08 22:37:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_slab": {
+    "criteria": {
+      "has_smooth_basalt": "2025-07-08 22:37:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2025-07-08 22:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-07-08 23:04:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2025-07-08 22:37:43 +0000"
     },
     "done": true
   },

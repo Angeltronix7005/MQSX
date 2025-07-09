@@ -10315,5 +10315,155 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/raw_copper_block_slab": {
+    "criteria": {
+      "has_raw_copper_block": "2025-07-08 23:36:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/raw_copper_block_stairs_from_raw_copper_block_stonecutting": {
+    "criteria": {
+      "has_raw_copper_block": "2025-07-08 23:36:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/raw_copper_block_slab_from_raw_copper_block_stonecutting": {
+    "criteria": {
+      "has_raw_copper_block": "2025-07-08 23:36:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/raw_copper_block_stairs": {
+    "criteria": {
+      "has_raw_copper_block": "2025-07-08 23:36:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/raw_copper_block_wall_from_raw_copper_block_stonecutting": {
+    "criteria": {
+      "has_raw_copper_block": "2025-07-08 23:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-07-08 23:36:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/raw_copper_block_wall": {
+    "criteria": {
+      "has_raw_copper_block": "2025-07-08 23:36:10 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-07-08 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-07-08 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-07-08 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-07-08 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-07-08 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-07-08 23:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-08 23:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-08 23:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-08 23:44:31 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/deepslate_slab": {
+    "criteria": {
+      "has_deepslate": "2025-07-08 23:55:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/deepslate_stairs": {
+    "criteria": {
+      "has_deepslate": "2025-07-08 23:55:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/deepslate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-07-08 23:55:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/deepslate_wall": {
+    "criteria": {
+      "has_deepslate": "2025-07-08 23:55:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/deepslate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-07-08 23:55:59 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/deepslate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-07-08 23:55:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-07-09 03:20:52 +0000"
+    },
+    "done": true
+  },
+  "l2archery:recipes/combat/gold_arrow": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 02:15:44 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2025-07-09 03:48:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
