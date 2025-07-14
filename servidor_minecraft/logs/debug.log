@@ -6689,3 +6689,118 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jul2025 04:18:13.863] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
 [14Jul2025 04:19:57.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
 [14Jul2025 04:21:27.908] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:22:28.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 04:22:28.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 04:22:48.512] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:22:55.580] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton
+[14Jul2025 04:23:34.110] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:25:54.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_ring_1
+[14Jul2025 04:25:54.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_starting_room
+[14Jul2025 04:25:54.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_crossroad_1
+[14Jul2025 04:25:54.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_big
+[14Jul2025 04:25:54.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_big
+[14Jul2025 04:25:54.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_small
+[14Jul2025 04:25:54.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/fallback/conduit_ruin_room_fail
+[14Jul2025 04:25:54.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/fallback/conduit_ruin_road_fail
+[14Jul2025 04:25:54.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_straight_2
+[14Jul2025 04:25:54.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_2
+[14Jul2025 04:25:54.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_3
+[14Jul2025 04:25:54.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_1
+[14Jul2025 04:25:54.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_small
+[14Jul2025 04:25:54.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_small
+[14Jul2025 04:25:54.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_big
+[14Jul2025 04:26:49.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_3_basalt
+[14Jul2025 04:26:49.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_plate_1_basalt
+[14Jul2025 04:26:49.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_skeleton
+[14Jul2025 04:26:49.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_empty
+[14Jul2025 04:26:49.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/skeleton_tower_unit_witherskeleton
+[14Jul2025 04:26:49.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_7_basalt
+[14Jul2025 04:26:49.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_5_basalt
+[14Jul2025 04:26:49.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_10_basalt
+[14Jul2025 04:26:49.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_4_basalt
+[14Jul2025 04:26:49.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_11_basalt
+[14Jul2025 04:26:49.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_9_basalt
+[14Jul2025 04:26:49.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_fail
+[14Jul2025 04:26:49.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_crossbow
+[14Jul2025 04:26:51.750] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_center_2
+[14Jul2025 04:26:51.776] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_corner_3
+[14Jul2025 04:26:51.783] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_corner_4
+[14Jul2025 04:26:51.787] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_corner_1
+[14Jul2025 04:26:51.793] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_3
+[14Jul2025 04:26:51.796] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_chest_fail
+[14Jul2025 04:26:51.801] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_corner_2
+[14Jul2025 04:26:51.802] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_sword
+[14Jul2025 04:26:51.803] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_brute
+[14Jul2025 04:26:51.806] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_4
+[14Jul2025 04:26:51.808] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_chest
+[14Jul2025 04:26:51.816] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_1
+[14Jul2025 04:26:51.820] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_2
+[14Jul2025 04:26:52.633] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_fire
+[14Jul2025 04:26:52.634] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_fire
+[14Jul2025 04:26:52.635] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_fire
+[14Jul2025 04:27:27.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 04:27:27.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 04:27:53.408] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_2_basalt
+[14Jul2025 04:27:53.410] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_2_soul
+[14Jul2025 04:27:53.412] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_2_crimson
+[14Jul2025 04:27:53.413] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_2_warped
+[14Jul2025 04:30:17.412] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:30:42.461] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:30:44.121] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_6
+[14Jul2025 04:30:44.123] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_3
+[14Jul2025 04:30:44.124] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_7
+[14Jul2025 04:30:44.124] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_1
+[14Jul2025 04:30:44.125] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_2
+[14Jul2025 04:30:44.126] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_5
+[14Jul2025 04:30:44.127] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_7
+[14Jul2025 04:30:44.127] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_6
+[14Jul2025 04:30:44.128] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_5
+[14Jul2025 04:30:44.129] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_1
+[14Jul2025 04:30:44.129] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_1
+[14Jul2025 04:30:44.130] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_4
+[14Jul2025 04:30:44.131] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_7
+[14Jul2025 04:30:44.131] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_4
+[14Jul2025 04:30:44.132] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_2
+[14Jul2025 04:30:44.132] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_5
+[14Jul2025 04:30:44.133] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_5
+[14Jul2025 04:30:44.134] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_4
+[14Jul2025 04:30:44.134] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_warped_event_2
+[14Jul2025 04:30:44.135] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_crimson_event_3
+[14Jul2025 04:30:44.135] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_7
+[14Jul2025 04:32:27.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 04:32:27.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 04:33:33.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Jul2025 04:33:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[14Jul2025 04:33:43.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has reached the goal [Plant Food]
+[14Jul2025 04:34:43.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[14Jul2025 04:34:54.133] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:35:22.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[14Jul2025 04:35:22.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[14Jul2025 04:35:22.810] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[14Jul2025 04:35:22.811] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[14Jul2025 04:35:24.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[14Jul2025 04:35:24.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[14Jul2025 04:35:24.821] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[14Jul2025 04:35:24.821] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[14Jul2025 04:35:29.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Jul2025 04:35:29.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[14Jul2025 04:35:42.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[14Jul2025 04:35:42.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[14Jul2025 04:35:42.300] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[14Jul2025 04:35:42.300] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[14Jul2025 04:36:36.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Jul2025 04:36:36.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Jul2025 04:36:36.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Jul2025 04:36:36.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Jul2025 04:36:36.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Jul2025 04:36:37.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Jul2025 04:36:37.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Jul2025 04:36:37.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 04:36:37.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 04:36:37.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Jul2025 04:36:37.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Jul2025 04:36:37.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Jul2025 04:36:37.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Jul2025 04:36:37.214] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[14Jul2025 04:36:37.214] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[14Jul2025 04:36:37.215] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

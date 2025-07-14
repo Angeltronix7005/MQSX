@@ -10483,5 +10483,47 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_slab_from_stripped_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-07-14 04:18:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-07-14 04:33:43 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_stairs": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-07-14 04:18:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_stairs_from_stripped_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-07-14 04:18:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_wall": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-07-14 04:18:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_wall_from_stripped_dark_oak_log_stonecutting": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-07-14 04:18:53 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/stripped_dark_oak_log_slab": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-07-14 04:18:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

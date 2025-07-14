@@ -443,3 +443,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jul2025 04:18:13.863] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
 [14Jul2025 04:19:57.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
 [14Jul2025 04:21:27.908] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:22:48.512] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:23:34.110] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:30:17.412] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:30:42.461] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:33:33.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Jul2025 04:33:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[14Jul2025 04:33:43.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 has reached the goal [Plant Food]
+[14Jul2025 04:34:43.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[14Jul2025 04:34:54.133] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:35:22.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angeltronix7005 lost connection: Disconnected
+[14Jul2025 04:35:22.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angeltronix7005 left the game
+[14Jul2025 04:35:22.810] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Angeltronix7005} || 3d0eb397-de0a-3271-9aff-8fc4e429df75
+[14Jul2025 04:35:22.811] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was unloaded
+[14Jul2025 04:35:24.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein lost connection: Disconnected
+[14Jul2025 04:35:24.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferlein left the game
+[14Jul2025 04:35:24.821] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{Ferlein} || 0e6df4b7-2964-3639-a5b2-37df6aae5bc1
+[14Jul2025 04:35:24.821] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e6df4b7-2964-3639-a5b2-37df6aae5bc1 was unloaded
+[14Jul2025 04:35:29.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Jul2025 04:35:29.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[14Jul2025 04:35:42.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor lost connection: Disconnected
+[14Jul2025 04:35:42.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor left the game
+[14Jul2025 04:35:42.300] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Unloading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
+[14Jul2025 04:35:42.300] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was unloaded
+[14Jul2025 04:36:36.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Jul2025 04:36:36.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Jul2025 04:36:36.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Jul2025 04:36:36.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Jul2025 04:36:36.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Jul2025 04:36:37.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Jul2025 04:36:37.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Jul2025 04:36:37.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Jul2025 04:36:37.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Jul2025 04:36:37.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Jul2025 04:36:37.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Jul2025 04:36:37.215] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
