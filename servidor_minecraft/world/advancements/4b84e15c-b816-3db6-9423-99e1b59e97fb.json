@@ -13066,12 +13066,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_rod": {
-    "criteria": {
-      "has_chorus_fruit_popped": "2025-07-08 23:04:27 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_slab_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_smooth_basalt": "2025-07-08 22:37:43 +0000"
@@ -13090,15 +13084,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_block": {
+  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_smooth_basalt": "2025-07-08 22:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
     "criteria": {
       "has_chorus_fruit_popped": "2025-07-08 23:04:27 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/smooth_basalt_stairs_from_smooth_basalt_stonecutting": {
+  "minecraft:recipes/building_blocks/purpur_block": {
     "criteria": {
-      "has_smooth_basalt": "2025-07-08 22:37:43 +0000"
+      "has_chorus_fruit_popped": "2025-07-08 23:04:27 +0000"
     },
     "done": true
   },
