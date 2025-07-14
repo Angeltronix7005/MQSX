@@ -10465,5 +10465,23 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_blue_wool_stairs": {
+    "criteria": {
+      "has_needed_dye": "2025-07-14 02:20:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_blue_wool_slab": {
+    "criteria": {
+      "has_needed_dye": "2025-07-14 02:20:54 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/dye_blue_wool_wall": {
+    "criteria": {
+      "has_needed_dye": "2025-07-14 02:20:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

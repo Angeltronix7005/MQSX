@@ -7158,3 +7158,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jul2025 02:23:19.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor joined the game
 [14Jul2025 02:23:19.876] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
 [14Jul2025 02:23:20.561] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
+[14Jul2025 02:25:12.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 02:25:12.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 02:30:12.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 02:30:12.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
