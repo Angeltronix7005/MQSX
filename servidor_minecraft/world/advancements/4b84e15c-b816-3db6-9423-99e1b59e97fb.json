@@ -13132,6 +13132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-07-14 03:34:31 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-07-14 02:31:27 +0000"
@@ -13171,6 +13177,12 @@
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_wall_from_oak_log_stonecutting": {
     "criteria": {
       "has_oak_log": "2025-07-14 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-07-14 03:27:30 +0000"
     },
     "done": true
   },

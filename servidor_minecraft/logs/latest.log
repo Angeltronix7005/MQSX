@@ -467,3 +467,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jul2025 03:22:58.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
 [14Jul2025 03:23:39.028] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
 [14Jul2025 03:25:42.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[14Jul2025 03:27:30.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Tactical Fishing]
+[14Jul2025 03:29:40.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]

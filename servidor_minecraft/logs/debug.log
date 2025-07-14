@@ -7570,3 +7570,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jul2025 03:25:24.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jul2025 03:25:24.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jul2025 03:25:42.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
+[14Jul2025 03:27:30.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JustRaptor has made the advancement [Tactical Fishing]
+[14Jul2025 03:29:40.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported JustRaptor to Angeltronix7005]
+[14Jul2025 03:30:24.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 03:30:24.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 03:35:24.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 03:35:24.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
