@@ -420,3 +420,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jul2025 03:56:18.302] [Server thread/INFO] [net.fexcraft.mod.fsmm.FSMM/]: Loading account of literal{JustRaptor} || 4b84e15c-b816-3db6-9423-99e1b59e97fb
 [14Jul2025 03:56:18.472] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4b84e15c-b816-3db6-9423-99e1b59e97fb was loaded
 [14Jul2025 03:58:16.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved wrongly!
+[14Jul2025 04:04:01.429] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:07:49.972] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:07:59.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to JustRaptor]
+[14Jul2025 04:08:06.258] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:08:12.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Angeltronix7005 to JustRaptor]
+[14Jul2025 04:08:12.642] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:08:20.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to JustRaptor]
+[14Jul2025 04:08:20.792] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:08:50.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Jul2025 04:08:50.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[14Jul2025 04:11:11.664] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:11:44.307] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]

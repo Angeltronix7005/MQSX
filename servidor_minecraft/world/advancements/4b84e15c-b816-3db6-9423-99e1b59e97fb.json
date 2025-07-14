@@ -13222,5 +13222,59 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/moss_block_wall_from_moss_block_stonecutting": {
+    "criteria": {
+      "has_moss_block": "2025-07-14 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/moss_block_slab": {
+    "criteria": {
+      "has_moss_block": "2025-07-14 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/moss_block_stairs": {
+    "criteria": {
+      "has_moss_block": "2025-07-14 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/moss_block_stairs_from_moss_block_stonecutting": {
+    "criteria": {
+      "has_moss_block": "2025-07-14 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/moss_block_wall": {
+    "criteria": {
+      "has_moss_block": "2025-07-14 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/moss_block_slab_from_moss_block_stonecutting": {
+    "criteria": {
+      "has_moss_block": "2025-07-14 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-14 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-14 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-14 04:00:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
