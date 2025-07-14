@@ -13102,5 +13102,77 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_wall": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_wall_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs": {
+    "criteria": {
+      "has_oak_log": "2025-07-14 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_wall": {
+    "criteria": {
+      "has_oak_log": "2025-07-14 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_slab": {
+    "criteria": {
+      "has_oak_log": "2025-07-14 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs_from_oak_log_stonecutting": {
+    "criteria": {
+      "has_oak_log": "2025-07-14 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_slab_from_oak_log_stonecutting": {
+    "criteria": {
+      "has_oak_log": "2025-07-14 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_wall_from_oak_log_stonecutting": {
+    "criteria": {
+      "has_oak_log": "2025-07-14 02:39:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
