@@ -432,3 +432,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jul2025 04:08:50.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [14Jul2025 04:11:11.664] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
 [14Jul2025 04:11:44.307] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:14:45.604] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
+[14Jul2025 04:15:16.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-252, y=71, z=-250} BlockPos{x=-251, y=69, z=-251}
+[14Jul2025 04:15:16.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-252, y=71, z=-250} BlockPos{x=-251, y=69, z=-251}
+[14Jul2025 04:15:46.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> xd?
+[14Jul2025 04:15:58.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-253, y=70, z=-247} BlockPos{x=-250, y=69, z=-249}
+[14Jul2025 04:15:58.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-253, y=70, z=-247} BlockPos{x=-250, y=69, z=-249}
+[14Jul2025 04:16:10.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-258, y=71, z=-247} BlockPos{x=-259, y=69, z=-248}
+[14Jul2025 04:16:35.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Angeltronix7005> yo dejo las florecitas que deja la hada
+[14Jul2025 04:18:13.863] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
+[14Jul2025 04:19:57.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Teleported Ferlein to Angeltronix7005]
+[14Jul2025 04:21:27.908] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9715, l='ServerLevel[world]', x=-416.65, y=75.16, z=-291.50, removed=DISCARDED]
