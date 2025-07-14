@@ -13114,6 +13114,30 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs": {
     "criteria": {
       "has_oak_log": "2025-07-14 02:39:04 +0000"
@@ -13132,45 +13156,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-07-14 03:34:31 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_slab_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_stairs_from_oak_log_stonecutting": {
     "criteria": {
       "has_oak_log": "2025-07-14 02:39:04 +0000"
     },
     "done": true
   },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_stairs_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_stairs": {
-    "criteria": {
-      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
-    },
-    "done": true
-  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/oak_log_slab_from_oak_log_stonecutting": {
     "criteria": {
       "has_oak_log": "2025-07-14 02:39:04 +0000"
-    },
-    "done": true
-  },
-  "more_slabs_stairs_and_walls:recipes/building_blocks/amethyst_block_slab": {
-    "criteria": {
-      "has_amethyst_block": "2025-07-14 02:31:27 +0000"
     },
     "done": true
   },
@@ -13183,6 +13177,48 @@
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "tropical_fish_bucket": "2025-07-14 03:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-07-14 03:34:31 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/melon_stairs_from_melon_stonecutting": {
+    "criteria": {
+      "has_melon": "2025-07-14 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/melon_slab_from_melon_stonecutting": {
+    "criteria": {
+      "has_melon": "2025-07-14 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/melon_wall_from_melon_stonecutting": {
+    "criteria": {
+      "has_melon": "2025-07-14 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/melon_stairs": {
+    "criteria": {
+      "has_melon": "2025-07-14 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/melon_slab": {
+    "criteria": {
+      "has_melon": "2025-07-14 03:42:16 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/melon_wall": {
+    "criteria": {
+      "has_melon": "2025-07-14 03:42:16 +0000"
     },
     "done": true
   },
