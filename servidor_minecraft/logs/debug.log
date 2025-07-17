@@ -8022,3 +8022,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jul2025 03:06:37.458] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
 [17Jul2025 03:07:30.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jul2025 03:07:30.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 03:11:39.343] [Worker-Main-87/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11b
+[17Jul2025 03:11:43.176] [Worker-Main-87/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_17
+[17Jul2025 03:11:51.234] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[17Jul2025 03:12:30.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 03:12:30.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 03:12:50.470] [Worker-Main-87/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[17Jul2025 03:12:54.395] [Worker-Main-87/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_20
+[17Jul2025 03:12:54.759] [Worker-Main-87/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8
+[17Jul2025 03:13:17.530] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[17Jul2025 03:13:34.494] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_13
+[17Jul2025 03:13:41.889] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[17Jul2025 03:13:41.893] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[17Jul2025 03:13:52.574] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_11
+[17Jul2025 03:14:21.571] [Worker-Main-93/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:creeping_crypt/crypt_entry/creeping_crypit_entry_house
+[17Jul2025 03:14:26.515] [Worker-Main-93/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_1
+[17Jul2025 03:14:47.469] [Worker-Main-93/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_defender
+[17Jul2025 03:14:47.552] [Worker-Main-93/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_hunter
+[17Jul2025 03:14:47.712] [Worker-Main-93/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_stalker
+[17Jul2025 03:14:48.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved too quickly! -6.926025653913712,-0.03122881826352142,8.45053081922515
+[17Jul2025 03:14:50.364] [Worker-Main-93/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[17Jul2025 03:14:50.376] [Worker-Main-93/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[17Jul2025 03:14:50.443] [Worker-Main-93/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:badlands_miner_outpost/badlands_miner_outpost_tower
+[17Jul2025 03:15:07.275] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_ring_1
+[17Jul2025 03:15:07.281] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_starting_room
+[17Jul2025 03:15:07.284] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_1
+[17Jul2025 03:15:07.285] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_straight_2
+[17Jul2025 03:15:07.286] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_3
+[17Jul2025 03:15:07.291] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_straight_big
+[17Jul2025 03:15:07.296] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_big
+[17Jul2025 03:15:07.298] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_small
+[17Jul2025 03:15:07.305] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_big
+[17Jul2025 03:15:07.308] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_crossroad_small
+[17Jul2025 03:15:07.314] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_t_curve_big
+[17Jul2025 03:15:07.316] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/room/conduit_ruin_room_curve_small
+[17Jul2025 03:15:07.317] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/fallback/conduit_ruin_room_fail
+[17Jul2025 03:15:07.319] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_straight_1
+[17Jul2025 03:15:07.321] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_t_curve_2
+[17Jul2025 03:15:07.324] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/road/conduit_ruin_road_crossroad_1
+[17Jul2025 03:15:07.330] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/fallback/conduit_ruin_road_fail
+[17Jul2025 03:15:07.355] [Worker-Main-86/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[17Jul2025 03:16:20.746] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_12
+[17Jul2025 03:16:57.044] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_5
+[17Jul2025 03:16:58.638] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_3b
+[17Jul2025 03:17:30.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 03:17:30.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
