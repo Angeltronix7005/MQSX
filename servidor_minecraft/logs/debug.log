@@ -7716,3 +7716,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jul2025 01:24:07.138] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3d0eb397-de0a-3271-9aff-8fc4e429df75 was loaded
 [17Jul2025 01:24:12.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferlein> sipi
 [17Jul2025 01:26:08.007] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 01:27:03.187] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 01:27:30.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 01:27:30.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 01:28:20.557] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 01:29:42.808] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 01:29:49.559] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 202.7 μs. 292/292 recipes are parallelized.
+[17Jul2025 01:30:11.209] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 01:32:17.418] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 01:32:18.960] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 01:32:30.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 01:32:30.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 01:32:40.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-392, y=87, z=-162} BlockPos{x=-375, y=91, z=-168}
+[17Jul2025 01:33:06.972] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 01:36:23.007] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 01:36:30.692] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 01:36:49.609] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 800.3 μs. 1059/1059 recipes are parallelized.
+[17Jul2025 01:36:50.389] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 01:36:55.939] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 01:37:01.060] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 01:37:05.908] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
