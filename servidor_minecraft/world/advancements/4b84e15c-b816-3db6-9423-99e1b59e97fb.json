@@ -13282,6 +13282,18 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/ochre_froglight_stairs": {
+    "criteria": {
+      "has_ochre_froglight": "2025-07-17 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/ochre_froglight_wall_from_ochre_froglight_stonecutting": {
+    "criteria": {
+      "has_ochre_froglight": "2025-07-17 02:31:14 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/white_stained_glass_slab": {
     "criteria": {
       "has_white_stained_glass": "2025-07-17 01:36:42 +0000"
@@ -13300,9 +13312,33 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/ochre_froglight_slab_from_ochre_froglight_stonecutting": {
+    "criteria": {
+      "has_ochre_froglight": "2025-07-17 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/ochre_froglight_slab": {
+    "criteria": {
+      "has_ochre_froglight": "2025-07-17 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/ochre_froglight_stairs_from_ochre_froglight_stonecutting": {
+    "criteria": {
+      "has_ochre_froglight": "2025-07-17 02:31:14 +0000"
+    },
+    "done": true
+  },
   "more_slabs_stairs_and_walls:recipes/building_blocks/white_stained_glass_stairs_from_white_stained_glass_stonecutting": {
     "criteria": {
       "has_white_stained_glass": "2025-07-17 01:36:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/ochre_froglight_wall": {
+    "criteria": {
+      "has_ochre_froglight": "2025-07-17 02:31:14 +0000"
     },
     "done": true
   },
