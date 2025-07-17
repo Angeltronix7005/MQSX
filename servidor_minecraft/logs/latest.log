@@ -511,3 +511,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jul2025 01:55:18.557] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
 [17Jul2025 02:01:53.921] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
 [17Jul2025 02:03:47.011] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 02:09:31.328] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 02:10:51.908] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 02:11:24.212] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
+[17Jul2025 02:15:34.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Jul2025 02:15:34.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[17Jul2025 02:16:41.184] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/197, l='ServerLevel[world]', x=-317.59, y=28.53, z=-57.74, removed=DISCARDED]
