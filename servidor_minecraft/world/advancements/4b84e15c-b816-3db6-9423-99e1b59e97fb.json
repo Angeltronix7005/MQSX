@@ -13276,5 +13276,41 @@
     },
     "done": true
   },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/white_stained_glass_wall_from_white_stained_glass_stonecutting": {
+    "criteria": {
+      "has_white_stained_glass": "2025-07-17 01:36:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/white_stained_glass_slab": {
+    "criteria": {
+      "has_white_stained_glass": "2025-07-17 01:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-17 01:36:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/white_stained_glass_stairs": {
+    "criteria": {
+      "has_white_stained_glass": "2025-07-17 01:36:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/white_stained_glass_stairs_from_white_stained_glass_stonecutting": {
+    "criteria": {
+      "has_white_stained_glass": "2025-07-17 01:36:42 +0000"
+    },
+    "done": true
+  },
+  "more_slabs_stairs_and_walls:recipes/building_blocks/white_stained_glass_slab_from_white_stained_glass_stonecutting": {
+    "criteria": {
+      "has_white_stained_glass": "2025-07-17 01:36:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
