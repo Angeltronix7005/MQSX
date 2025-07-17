@@ -8067,3 +8067,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jul2025 03:16:58.638] [Worker-Main-86/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_3b
 [17Jul2025 03:17:30.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jul2025 03:17:30.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 03:19:09.178] [Worker-Main-97/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[17Jul2025 03:22:30.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 03:22:30.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jul2025 03:23:26.900] [Worker-Main-97/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[17Jul2025 03:23:27.523] [Worker-Main-97/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7b
+[17Jul2025 03:24:10.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved too quickly! -0.17216892562282737,9.056474165282694,6.374096878871114
+[17Jul2025 03:24:17.136] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[17Jul2025 03:25:04.223] [Worker-Main-100/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:stray_fort/stray_fort_3
+[17Jul2025 03:25:14.690] [Worker-Main-100/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[17Jul2025 03:25:14.696] [Worker-Main-100/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[17Jul2025 03:25:28.336] [Worker-Main-100/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4b
+[17Jul2025 03:25:59.689] [Worker-Main-100/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[17Jul2025 03:26:03.898] [Worker-Main-100/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_bottom
+[17Jul2025 03:26:11.464] [Worker-Main-100/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_9
+[17Jul2025 03:27:30.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jul2025 03:27:30.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

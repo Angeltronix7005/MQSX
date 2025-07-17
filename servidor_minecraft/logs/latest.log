@@ -564,3 +564,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jul2025 03:11:51.234] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
 [17Jul2025 03:14:48.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved too quickly! -6.926025653913712,-0.03122881826352142,8.45053081922515
 [17Jul2025 03:15:07.355] [Worker-Main-86/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[17Jul2025 03:24:10.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JustRaptor moved too quickly! -0.17216892562282737,9.056474165282694,6.374096878871114
+[17Jul2025 03:24:17.136] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[17Jul2025 03:25:59.689] [Worker-Main-100/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
