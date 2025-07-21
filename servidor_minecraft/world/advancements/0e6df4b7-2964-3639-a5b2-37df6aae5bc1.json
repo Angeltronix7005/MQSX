@@ -13082,5 +13082,11 @@
     },
     "done": true
   },
+  "l2archery:recipes/combat/tnt_arrow_lv1": {
+    "criteria": {
+      "has_tnt": "2025-07-21 03:39:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
