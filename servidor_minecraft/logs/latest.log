@@ -418,3 +418,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jul2025 03:03:57.464] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.146 ms. 2812/2896 recipes are parallelized.
 [21Jul2025 03:07:30.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [21Jul2025 03:07:30.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[21Jul2025 03:28:24.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferlein moved wrongly!
