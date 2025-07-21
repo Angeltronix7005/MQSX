@@ -428,3 +428,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jul2025 04:22:23.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [21Jul2025 04:22:23.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
 [21Jul2025 04:22:51.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angeltronix7005: Set own game mode to Survival Mode]
+[21Jul2025 04:31:46.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-258, y=54, z=-214} BlockPos{x=-258, y=55, z=-214}
