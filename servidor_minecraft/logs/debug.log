@@ -6190,3 +6190,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jul2025 03:29:16.744] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_2
 [21Jul2025 03:29:16.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:piglin_camp/piglin_camp_event_1
 [21Jul2025 03:29:16.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_skeleton_empty
+[21Jul2025 03:32:44.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 03:32:44.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 03:37:44.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 03:37:44.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
